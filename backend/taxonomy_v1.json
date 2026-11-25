@@ -1,0 +1,8492 @@
+[
+ {
+  "name": "Romance",
+  "slug": "romance",
+  "records": 84865
+ },
+ {
+  "name": "Drama",
+  "slug": "drama",
+  "records": 64093
+ },
+ {
+  "name": "Comedy",
+  "slug": "comedy",
+  "records": 52159
+ },
+ {
+  "name": "Fantasy",
+  "slug": "fantasy",
+  "records": 41233
+ },
+ {
+  "name": "Boys Love",
+  "slug": "boys_love",
+  "records": 33146
+ },
+ {
+  "name": "Slice of Life",
+  "slug": "slice_of_life",
+  "records": 32581
+ },
+ {
+  "name": "School",
+  "slug": "school",
+  "records": 29861
+ },
+ {
+  "name": "Action",
+  "slug": "action",
+  "records": 26202
+ },
+ {
+  "name": "Supernatural",
+  "slug": "supernatural",
+  "records": 23984
+ },
+ {
+  "name": "Male Lead",
+  "slug": "male_lead",
+  "records": 19646
+ },
+ {
+  "name": "Female Lead",
+  "slug": "female_lead",
+  "records": 19602
+ },
+ {
+  "name": "Smut",
+  "slug": "smut",
+  "records": 16230
+ },
+ {
+  "name": "Adventure",
+  "slug": "adventure",
+  "records": 13869
+ },
+ {
+  "name": "Historical",
+  "slug": "historical",
+  "records": 12746
+ },
+ {
+  "name": "Heterosexual",
+  "slug": "heterosexual",
+  "records": 12741
+ },
+ {
+  "name": "Sci-Fi",
+  "slug": "sci_fi",
+  "records": 11824
+ },
+ {
+  "name": "Adult",
+  "slug": "adult",
+  "records": 11406
+ },
+ {
+  "name": "Mystery",
+  "slug": "mystery",
+  "records": 10344
+ },
+ {
+  "name": "Ecchi",
+  "slug": "ecchi",
+  "records": 9744
+ },
+ {
+  "name": "Erotica",
+  "slug": "erotica",
+  "records": 9035
+ },
+ {
+  "name": "Horror",
+  "slug": "horror",
+  "records": 8733
+ },
+ {
+  "name": "Psychological",
+  "slug": "psychological",
+  "records": 8468
+ },
+ {
+  "name": "Tragedy",
+  "slug": "tragedy",
+  "records": 8051
+ },
+ {
+  "name": "Mature",
+  "slug": "mature",
+  "records": 7507
+ },
+ {
+  "name": "Based on a Novel",
+  "slug": "based_on_a_novel",
+  "records": 7388
+ },
+ {
+  "name": "Primarily Adult Cast",
+  "slug": "primarily_adult_cast",
+  "records": 6393
+ },
+ {
+  "name": "Based on a Web Novel",
+  "slug": "based_on_a_web_novel",
+  "records": 6154
+ },
+ {
+  "name": "Nudity",
+  "slug": "nudity",
+  "records": 6103
+ },
+ {
+  "name": "Magic",
+  "slug": "magic",
+  "records": 5917
+ },
+ {
+  "name": "Isekai",
+  "slug": "isekai",
+  "records": 5597
+ },
+ {
+  "name": "Age Gap",
+  "slug": "age_gap",
+  "records": 5517
+ },
+ {
+  "name": "Girls Love",
+  "slug": "girls_love",
+  "records": 5412
+ },
+ {
+  "name": "High School",
+  "slug": "high_school",
+  "records": 5395
+ },
+ {
+  "name": "Sports",
+  "slug": "sports",
+  "records": 4902
+ },
+ {
+  "name": "Love Triangle",
+  "slug": "love_triangle",
+  "records": 4766
+ },
+ {
+  "name": "Japan",
+  "slug": "japan",
+  "records": 4731
+ },
+ {
+  "name": "Royalty",
+  "slug": "royalty",
+  "records": 4472
+ },
+ {
+  "name": "Childhood Friends",
+  "slug": "childhood_friends",
+  "records": 4412
+ },
+ {
+  "name": "Based on a Light Novel",
+  "slug": "based_on_a_light_novel",
+  "records": 4399
+ },
+ {
+  "name": "Martial Arts",
+  "slug": "martial_arts",
+  "records": 4290
+ },
+ {
+  "name": "Harem",
+  "slug": "harem",
+  "records": 4259
+ },
+ {
+  "name": "Mature Romance",
+  "slug": "mature_romance",
+  "records": 4026
+ },
+ {
+  "name": "Demons",
+  "slug": "demons",
+  "records": 4010
+ },
+ {
+  "name": "Reincarnation",
+  "slug": "reincarnation",
+  "records": 3993
+ },
+ {
+  "name": "Non-Human Protagonist",
+  "slug": "non_human_protagonist",
+  "records": 3897
+ },
+ {
+  "name": "Working",
+  "slug": "working",
+  "records": 3817
+ },
+ {
+  "name": "21st century",
+  "slug": "21st_century",
+  "records": 3810
+ },
+ {
+  "name": "Big Breasts",
+  "slug": "big_breasts",
+  "records": 3675
+ },
+ {
+  "name": "Nobility",
+  "slug": "nobility",
+  "records": 3630
+ },
+ {
+  "name": "Crimes",
+  "slug": "crimes",
+  "records": 3603
+ },
+ {
+  "name": "Unrequited Love",
+  "slug": "unrequited_love",
+  "records": 3603
+ },
+ {
+  "name": "Flashbacks",
+  "slug": "flashbacks",
+  "records": 3500
+ },
+ {
+  "name": "Military",
+  "slug": "military",
+  "records": 3465
+ },
+ {
+  "name": "Adapted to Anime",
+  "slug": "adapted_to_anime",
+  "records": 3423
+ },
+ {
+  "name": "LGBTQ+",
+  "slug": "lgbtq",
+  "records": 3283
+ },
+ {
+  "name": "Murder",
+  "slug": "murder",
+  "records": 3257
+ },
+ {
+  "name": "Europe",
+  "slug": "europe",
+  "records": 3239
+ },
+ {
+  "name": "Rape",
+  "slug": "rape",
+  "records": 3177
+ },
+ {
+  "name": "Primarily Female Cast",
+  "slug": "primarily_female_cast",
+  "records": 3152
+ },
+ {
+  "name": "College",
+  "slug": "college",
+  "records": 3100
+ },
+ {
+  "name": "Gender Bender",
+  "slug": "gender_bender",
+  "records": 3090
+ },
+ {
+  "name": "Female Empowerment",
+  "slug": "female_empowerment",
+  "records": 3043
+ },
+ {
+  "name": "Misunderstandings",
+  "slug": "misunderstandings",
+  "records": 3010
+ },
+ {
+  "name": "Revenge",
+  "slug": "revenge",
+  "records": 2988
+ },
+ {
+  "name": "Strong Male Lead",
+  "slug": "strong_male_lead",
+  "records": 2891
+ },
+ {
+  "name": "Primarily Teen Cast",
+  "slug": "primarily_teen_cast",
+  "records": 2872
+ },
+ {
+  "name": "Shoujo Ai",
+  "slug": "shoujo_ai",
+  "records": 2869
+ },
+ {
+  "name": "Time Skip",
+  "slug": "time_skip",
+  "records": 2839
+ },
+ {
+  "name": "Gore",
+  "slug": "gore",
+  "records": 2787
+ },
+ {
+  "name": "Music",
+  "slug": "music",
+  "records": 2783
+ },
+ {
+  "name": "Handsome Male Lead",
+  "slug": "handsome_male_lead",
+  "records": 2777
+ },
+ {
+  "name": "Strong Female Lead",
+  "slug": "strong_female_lead",
+  "records": 2767
+ },
+ {
+  "name": "Friendship",
+  "slug": "friendship",
+  "records": 2749
+ },
+ {
+  "name": "Family Life",
+  "slug": "family_life",
+  "records": 2691
+ },
+ {
+  "name": "Foreign",
+  "slug": "foreign",
+  "records": 2636
+ },
+ {
+  "name": "Crossdressing",
+  "slug": "crossdressing",
+  "records": 2620
+ },
+ {
+  "name": "Teens Love",
+  "slug": "teens_love",
+  "records": 2618
+ },
+ {
+  "name": "Violence",
+  "slug": "violence",
+  "records": 2574
+ },
+ {
+  "name": "Animals",
+  "slug": "animals",
+  "records": 2559
+ },
+ {
+  "name": "Super Powers",
+  "slug": "super_powers",
+  "records": 2557
+ },
+ {
+  "name": "Company",
+  "slug": "company",
+  "records": 2524
+ },
+ {
+  "name": "Gourmet",
+  "slug": "gourmet",
+  "records": 2513
+ },
+ {
+  "name": "Harlequin",
+  "slug": "harlequin",
+  "records": 2511
+ },
+ {
+  "name": "Primarily Male Cast",
+  "slug": "primarily_male_cast",
+  "records": 2496
+ },
+ {
+  "name": "Cooking",
+  "slug": "cooking",
+  "records": 2439
+ },
+ {
+  "name": "Coming of Age",
+  "slug": "coming_of_age",
+  "records": 2420
+ },
+ {
+  "name": "Love-Hate Relationship",
+  "slug": "love_hate_relationship",
+  "records": 2337
+ },
+ {
+  "name": "Bullying",
+  "slug": "bullying",
+  "records": 2274
+ },
+ {
+  "name": "Family Drama",
+  "slug": "family_drama",
+  "records": 2269
+ },
+ {
+  "name": "Cohabitation",
+  "slug": "cohabitation",
+  "records": 2238
+ },
+ {
+  "name": "European Ambience",
+  "slug": "european_ambience",
+  "records": 2229
+ },
+ {
+  "name": "Master-Servant Relationship",
+  "slug": "master_servant_relationship",
+  "records": 2200
+ },
+ {
+  "name": "Beautiful Female Lead",
+  "slug": "beautiful_female_lead",
+  "records": 2166
+ },
+ {
+  "name": "Betrayal",
+  "slug": "betrayal",
+  "records": 2161
+ },
+ {
+  "name": "Glasses-Wearing Male Lead",
+  "slug": "glasses_wearing_male_lead",
+  "records": 2132
+ },
+ {
+  "name": "Ghosts",
+  "slug": "ghosts",
+  "records": 2126
+ },
+ {
+  "name": "Dead Family Member",
+  "slug": "dead_family_member",
+  "records": 2112
+ },
+ {
+  "name": "Urban Fantasy",
+  "slug": "urban_fantasy",
+  "records": 2066
+ },
+ {
+  "name": "Past Plays a Big Role",
+  "slug": "past_plays_a_big_role",
+  "records": 2049
+ },
+ {
+  "name": "War",
+  "slug": "war",
+  "records": 1978
+ },
+ {
+  "name": "Student-Student Relationship",
+  "slug": "student_student_relationship",
+  "records": 1976
+ },
+ {
+  "name": "Older Uke Younger Seme",
+  "slug": "older_uke_younger_seme",
+  "records": 1959
+ },
+ {
+  "name": "Male Lead Falls in Love First",
+  "slug": "male_lead_falls_in_love_first",
+  "records": 1956
+ },
+ {
+  "name": "Teachers",
+  "slug": "teachers",
+  "records": 1940
+ },
+ {
+  "name": "Time Travel",
+  "slug": "time_travel",
+  "records": 1932
+ },
+ {
+  "name": "Adult Cast",
+  "slug": "adult_cast",
+  "records": 1928
+ },
+ {
+  "name": "Based on a Video Game",
+  "slug": "based_on_a_video_game",
+  "records": 1923
+ },
+ {
+  "name": "Obsessive Love",
+  "slug": "obsessive_love",
+  "records": 1918
+ },
+ {
+  "name": "Female Harem",
+  "slug": "female_harem",
+  "records": 1904
+ },
+ {
+  "name": "School Clubs",
+  "slug": "school_clubs",
+  "records": 1864
+ },
+ {
+  "name": "Virginity",
+  "slug": "virginity",
+  "records": 1857
+ },
+ {
+  "name": "Orphans",
+  "slug": "orphans",
+  "records": 1824
+ },
+ {
+  "name": "Swordplay",
+  "slug": "swordplay",
+  "records": 1807
+ },
+ {
+  "name": "Tsundere",
+  "slug": "tsundere",
+  "records": 1795
+ },
+ {
+  "name": "Monsters",
+  "slug": "monsters",
+  "records": 1777
+ },
+ {
+  "name": "Office Worker",
+  "slug": "office_worker",
+  "records": 1772
+ },
+ {
+  "name": "Gods",
+  "slug": "gods",
+  "records": 1756
+ },
+ {
+  "name": "Bisexual",
+  "slug": "bisexual",
+  "records": 1742
+ },
+ {
+  "name": "Delinquents",
+  "slug": "delinquents",
+  "records": 1738
+ },
+ {
+  "name": "Depression",
+  "slug": "depression",
+  "records": 1735
+ },
+ {
+  "name": "Urban",
+  "slug": "urban",
+  "records": 1731
+ },
+ {
+  "name": "Secret Identity",
+  "slug": "secret_identity",
+  "records": 1730
+ },
+ {
+  "name": "Older Male Younger Female",
+  "slug": "older_male_younger_female",
+  "records": 1718
+ },
+ {
+  "name": "Special Ability",
+  "slug": "special_ability",
+  "records": 1713
+ },
+ {
+  "name": "Ensemble Cast",
+  "slug": "ensemble_cast",
+  "records": 1703
+ },
+ {
+  "name": "Jealousy",
+  "slug": "jealousy",
+  "records": 1692
+ },
+ {
+  "name": "Thriller",
+  "slug": "thriller",
+  "records": 1672
+ },
+ {
+  "name": "Borderline H",
+  "slug": "borderline_h",
+  "records": 1643
+ },
+ {
+  "name": "Cats",
+  "slug": "cats",
+  "records": 1618
+ },
+ {
+  "name": "Medical",
+  "slug": "medical",
+  "records": 1617
+ },
+ {
+  "name": "Oral Intercourse",
+  "slug": "oral_intercourse",
+  "records": 1615
+ },
+ {
+  "name": "Amnesia",
+  "slug": "amnesia",
+  "records": 1613
+ },
+ {
+  "name": "Masturbation",
+  "slug": "masturbation",
+  "records": 1613
+ },
+ {
+  "name": "Love Confession",
+  "slug": "love_confession",
+  "records": 1610
+ },
+ {
+  "name": "Coworkers",
+  "slug": "coworkers",
+  "records": 1584
+ },
+ {
+  "name": "Religion",
+  "slug": "religion",
+  "records": 1583
+ },
+ {
+  "name": "Animal Characteristics",
+  "slug": "animal_characteristics",
+  "records": 1580
+ },
+ {
+  "name": "Fantasy World",
+  "slug": "fantasy_world",
+  "records": 1563
+ },
+ {
+  "name": "Marriage",
+  "slug": "marriage",
+  "records": 1563
+ },
+ {
+  "name": "Twins",
+  "slug": "twins",
+  "records": 1557
+ },
+ {
+  "name": "Older Female Younger Male",
+  "slug": "older_female_younger_male",
+  "records": 1553
+ },
+ {
+  "name": "Yandere",
+  "slug": "yandere",
+  "records": 1553
+ },
+ {
+  "name": "Idols",
+  "slug": "idols",
+  "records": 1549
+ },
+ {
+  "name": "Detectives",
+  "slug": "detectives",
+  "records": 1529
+ },
+ {
+  "name": "Otaku",
+  "slug": "otaku",
+  "records": 1528
+ },
+ {
+  "name": "Tragic Past",
+  "slug": "tragic_past",
+  "records": 1525
+ },
+ {
+  "name": "Suicide",
+  "slug": "suicide",
+  "records": 1497
+ },
+ {
+  "name": "Countryside",
+  "slug": "countryside",
+  "records": 1494
+ },
+ {
+  "name": "Reunion",
+  "slug": "reunion",
+  "records": 1491
+ },
+ {
+  "name": "Young Male Lead",
+  "slug": "young_male_lead",
+  "records": 1477
+ },
+ {
+  "name": "Vampires",
+  "slug": "vampires",
+  "records": 1469
+ },
+ {
+  "name": "Mecha",
+  "slug": "mecha",
+  "records": 1450
+ },
+ {
+  "name": "Friends to Lovers",
+  "slug": "friends_to_lovers",
+  "records": 1446
+ },
+ {
+  "name": "Time Manipulation",
+  "slug": "time_manipulation",
+  "records": 1435
+ },
+ {
+  "name": "Siblings",
+  "slug": "siblings",
+  "records": 1422
+ },
+ {
+  "name": "Feudal Japan",
+  "slug": "feudal_japan",
+  "records": 1391
+ },
+ {
+  "name": "Appearance Different from Personality",
+  "slug": "appearance_different_from_personality",
+  "records": 1390
+ },
+ {
+  "name": "Student-Teacher Relationship",
+  "slug": "student_teacher_relationship",
+  "records": 1382
+ },
+ {
+  "name": "Mythology",
+  "slug": "mythology",
+  "records": 1378
+ },
+ {
+  "name": "Death of Loved One",
+  "slug": "death_of_loved_one",
+  "records": 1358
+ },
+ {
+  "name": "Interspecies Relationship",
+  "slug": "interspecies_relationship",
+  "records": 1353
+ },
+ {
+  "name": "Acting",
+  "slug": "acting",
+  "records": 1345
+ },
+ {
+  "name": "Partial Nudity",
+  "slug": "partial_nudity",
+  "records": 1342
+ },
+ {
+  "name": "Forbidden Love",
+  "slug": "forbidden_love",
+  "records": 1332
+ },
+ {
+  "name": "Writing",
+  "slug": "writing",
+  "records": 1325
+ },
+ {
+  "name": "Dead Parents",
+  "slug": "dead_parents",
+  "records": 1318
+ },
+ {
+  "name": "Police",
+  "slug": "police",
+  "records": 1317
+ },
+ {
+  "name": "Breakup",
+  "slug": "breakup",
+  "records": 1316
+ },
+ {
+  "name": "Robots",
+  "slug": "robots",
+  "records": 1303
+ },
+ {
+  "name": "Office Lady",
+  "slug": "office_lady",
+  "records": 1292
+ },
+ {
+  "name": "Dubious Consent",
+  "slug": "dubious_consent",
+  "records": 1283
+ },
+ {
+  "name": "Anti-Hero",
+  "slug": "anti_hero",
+  "records": 1282
+ },
+ {
+  "name": "Assassins",
+  "slug": "assassins",
+  "records": 1267
+ },
+ {
+  "name": "Guns",
+  "slug": "guns",
+  "records": 1261
+ },
+ {
+  "name": "Organized Crime",
+  "slug": "organized_crime",
+  "records": 1260
+ },
+ {
+  "name": "Japanese Folklore",
+  "slug": "japanese_folklore",
+  "records": 1247
+ },
+ {
+  "name": "First Love",
+  "slug": "first_love",
+  "records": 1244
+ },
+ {
+  "name": "Popular male lead",
+  "slug": "popular_male_lead",
+  "records": 1239
+ },
+ {
+  "name": "Hospital",
+  "slug": "hospital",
+  "records": 1229
+ },
+ {
+  "name": "Aliens",
+  "slug": "aliens",
+  "records": 1228
+ },
+ {
+  "name": "Anthropomorphic",
+  "slug": "anthropomorphic",
+  "records": 1226
+ },
+ {
+  "name": "Maids",
+  "slug": "maids",
+  "records": 1226
+ },
+ {
+  "name": "Kemonomimi",
+  "slug": "kemonomimi",
+  "records": 1211
+ },
+ {
+  "name": "Exhibitionism",
+  "slug": "exhibitionism",
+  "records": 1210
+ },
+ {
+  "name": "Older Seme Younger Uke",
+  "slug": "older_seme_younger_uke",
+  "records": 1207
+ },
+ {
+  "name": "Smart Male Lead",
+  "slug": "smart_male_lead",
+  "records": 1201
+ },
+ {
+  "name": "Senpai-Kouhai Relationship",
+  "slug": "senpai_kouhai_relationship",
+  "records": 1184
+ },
+ {
+  "name": "Arranged Marriage",
+  "slug": "arranged_marriage",
+  "records": 1175
+ },
+ {
+  "name": "Dragons",
+  "slug": "dragons",
+  "records": 1169
+ },
+ {
+  "name": "Game Elements",
+  "slug": "game_elements",
+  "records": 1167
+ },
+ {
+  "name": "Kind Male Lead",
+  "slug": "kind_male_lead",
+  "records": 1163
+ },
+ {
+  "name": "Unrequited Love Becomes Requited",
+  "slug": "unrequited_love_becomes_requited",
+  "records": 1162
+ },
+ {
+  "name": "Survival",
+  "slug": "survival",
+  "records": 1158
+ },
+ {
+  "name": "Infidelity",
+  "slug": "infidelity",
+  "records": 1151
+ },
+ {
+  "name": "Salarymen",
+  "slug": "salarymen",
+  "records": 1133
+ },
+ {
+  "name": "Human-Nonhuman Relationship",
+  "slug": "human_nonhuman_relationship",
+  "records": 1129
+ },
+ {
+  "name": "Youkai",
+  "slug": "youkai",
+  "records": 1129
+ },
+ {
+  "name": "Travel",
+  "slug": "travel",
+  "records": 1113
+ },
+ {
+  "name": "Parody",
+  "slug": "parody",
+  "records": 1109
+ },
+ {
+  "name": "Incest",
+  "slug": "incest",
+  "records": 1105
+ },
+ {
+  "name": "Curses",
+  "slug": "curses",
+  "records": 1104
+ },
+ {
+  "name": "Neighbors",
+  "slug": "neighbors",
+  "records": 1091
+ },
+ {
+  "name": "Anal Intercourse",
+  "slug": "anal_intercourse",
+  "records": 1090
+ },
+ {
+  "name": "Writers",
+  "slug": "writers",
+  "records": 1090
+ },
+ {
+  "name": "Character Growth",
+  "slug": "character_growth",
+  "records": 1089
+ },
+ {
+  "name": "Gag Humor",
+  "slug": "gag_humor",
+  "records": 1089
+ },
+ {
+  "name": "Danmei",
+  "slug": "danmei",
+  "records": 1082
+ },
+ {
+  "name": "Small Breasts",
+  "slug": "small_breasts",
+  "records": 1082
+ },
+ {
+  "name": "Weak to Strong",
+  "slug": "weak_to_strong",
+  "records": 1074
+ },
+ {
+  "name": "Kidnapping",
+  "slug": "kidnapping",
+  "records": 1065
+ },
+ {
+  "name": "Parenthood",
+  "slug": "parenthood",
+  "records": 1064
+ },
+ {
+  "name": "Attempted Rape",
+  "slug": "attempted_rape",
+  "records": 1052
+ },
+ {
+  "name": "Politics",
+  "slug": "politics",
+  "records": 1046
+ },
+ {
+  "name": "Dark Ambience",
+  "slug": "dark_ambience",
+  "records": 1034
+ },
+ {
+  "name": "Quirky Character",
+  "slug": "quirky_character",
+  "records": 1029
+ },
+ {
+  "name": "Love Polygon",
+  "slug": "love_polygon",
+  "records": 1027
+ },
+ {
+  "name": "Suspense",
+  "slug": "suspense",
+  "records": 1022
+ },
+ {
+  "name": "Love At First Sight",
+  "slug": "love_at_first_sight",
+  "records": 1017
+ },
+ {
+  "name": "Rural",
+  "slug": "rural",
+  "records": 1015
+ },
+ {
+  "name": "Modern Era",
+  "slug": "modern_era",
+  "records": 1014
+ },
+ {
+  "name": "Unexpressed Feelings",
+  "slug": "unexpressed_feelings",
+  "records": 1012
+ },
+ {
+  "name": "Food and Beverage",
+  "slug": "food_and_beverage",
+  "records": 1011
+ },
+ {
+  "name": "China",
+  "slug": "china",
+  "records": 1008
+ },
+ {
+  "name": "Prince",
+  "slug": "prince",
+  "records": 1008
+ },
+ {
+  "name": "Conspiracy",
+  "slug": "conspiracy",
+  "records": 1001
+ },
+ {
+  "name": "Unexpected Feelings",
+  "slug": "unexpected_feelings",
+  "records": 994
+ },
+ {
+  "name": "Transformation",
+  "slug": "transformation",
+  "records": 993
+ },
+ {
+  "name": "South Korea",
+  "slug": "south_korea",
+  "records": 987
+ },
+ {
+  "name": "Possessive Lovers",
+  "slug": "possessive_lovers",
+  "records": 980
+ },
+ {
+  "name": "Witch",
+  "slug": "witch",
+  "records": 979
+ },
+ {
+  "name": "Adoption",
+  "slug": "adoption",
+  "records": 977
+ },
+ {
+  "name": "Blackmail",
+  "slug": "blackmail",
+  "records": 970
+ },
+ {
+  "name": "Young Female Lead",
+  "slug": "young_female_lead",
+  "records": 966
+ },
+ {
+  "name": "Romantic Subplot",
+  "slug": "romantic_subplot",
+  "records": 963
+ },
+ {
+  "name": "Classmates",
+  "slug": "classmates",
+  "records": 956
+ },
+ {
+  "name": "Disability",
+  "slug": "disability",
+  "records": 955
+ },
+ {
+  "name": "Brothers",
+  "slug": "brothers",
+  "records": 954
+ },
+ {
+  "name": "Villainess",
+  "slug": "villainess",
+  "records": 949
+ },
+ {
+  "name": "Sexual Acts",
+  "slug": "sexual_acts",
+  "records": 947
+ },
+ {
+  "name": "Discrimination",
+  "slug": "discrimination",
+  "records": 944
+ },
+ {
+  "name": "Omegaverse",
+  "slug": "omegaverse",
+  "records": 942
+ },
+ {
+  "name": "Traumatic Past",
+  "slug": "traumatic_past",
+  "records": 941
+ },
+ {
+  "name": "Cultivation",
+  "slug": "cultivation",
+  "records": 940
+ },
+ {
+  "name": "Post-Apocalyptic",
+  "slug": "post_apocalyptic",
+  "records": 940
+ },
+ {
+  "name": "Smart Female Lead",
+  "slug": "smart_female_lead",
+  "records": 939
+ },
+ {
+  "name": "Boss-Employee Relationship",
+  "slug": "boss_employee_relationship",
+  "records": 936
+ },
+ {
+  "name": "Rich Male Lead",
+  "slug": "rich_male_lead",
+  "records": 932
+ },
+ {
+  "name": "Slow Romance",
+  "slug": "slow_romance",
+  "records": 932
+ },
+ {
+  "name": "Black-Haired Male Lead",
+  "slug": "black_haired_male_lead",
+  "records": 928
+ },
+ {
+  "name": "Drawing",
+  "slug": "drawing",
+  "records": 928
+ },
+ {
+  "name": "Sexual Assault",
+  "slug": "sexual_assault",
+  "records": 924
+ },
+ {
+  "name": "Female Lead Falls in Love First",
+  "slug": "female_lead_falls_in_love_first",
+  "records": 920
+ },
+ {
+  "name": "Height Gap",
+  "slug": "height_gap",
+  "records": 920
+ },
+ {
+  "name": "Loneliness",
+  "slug": "loneliness",
+  "records": 920
+ },
+ {
+  "name": "Yakuza",
+  "slug": "yakuza",
+  "records": 920
+ },
+ {
+  "name": "Doctors",
+  "slug": "doctors",
+  "records": 914
+ },
+ {
+  "name": "Live-in Lover",
+  "slug": "live_in_lover",
+  "records": 913
+ },
+ {
+  "name": "Adapted to Audio Drama",
+  "slug": "adapted_to_audio_drama",
+  "records": 900
+ },
+ {
+  "name": "Hentai",
+  "slug": "hentai",
+  "records": 888
+ },
+ {
+  "name": "Based on an Anime",
+  "slug": "based_on_an_anime",
+  "records": 884
+ },
+ {
+  "name": "Playboys",
+  "slug": "playboys",
+  "records": 883
+ },
+ {
+  "name": "Transfer Students",
+  "slug": "transfer_students",
+  "records": 881
+ },
+ {
+  "name": "Age Regression",
+  "slug": "age_regression",
+  "records": 880
+ },
+ {
+  "name": "Body Horror",
+  "slug": "body_horror",
+  "records": 880
+ },
+ {
+  "name": "Prostitution",
+  "slug": "prostitution",
+  "records": 872
+ },
+ {
+  "name": "Slapstick",
+  "slug": "slapstick",
+  "records": 871
+ },
+ {
+  "name": "Childcare",
+  "slug": "childcare",
+  "records": 870
+ },
+ {
+  "name": "Boss-Subordinate Relationship",
+  "slug": "boss_subordinate_relationship",
+  "records": 868
+ },
+ {
+  "name": "Adapted to Drama CD",
+  "slug": "adapted_to_drama_cd",
+  "records": 862
+ },
+ {
+  "name": "Opposites Attract",
+  "slug": "opposites_attract",
+  "records": 860
+ },
+ {
+  "name": "Transported to Another World",
+  "slug": "transported_to_another_world",
+  "records": 859
+ },
+ {
+  "name": "Educational",
+  "slug": "educational",
+  "records": 857
+ },
+ {
+  "name": "Dormitory",
+  "slug": "dormitory",
+  "records": 854
+ },
+ {
+  "name": "Surreal Comedy",
+  "slug": "surreal_comedy",
+  "records": 853
+ },
+ {
+  "name": "Handjob",
+  "slug": "handjob",
+  "records": 848
+ },
+ {
+  "name": "Video Games",
+  "slug": "video_games",
+  "records": 848
+ },
+ {
+  "name": "Tomboys",
+  "slug": "tomboys",
+  "records": 844
+ },
+ {
+  "name": "Bishounen",
+  "slug": "bishounen",
+  "records": 843
+ },
+ {
+  "name": "Gangs",
+  "slug": "gangs",
+  "records": 834
+ },
+ {
+  "name": "Spirits",
+  "slug": "spirits",
+  "records": 833
+ },
+ {
+  "name": "Samurai",
+  "slug": "samurai",
+  "records": 831
+ },
+ {
+  "name": "Training",
+  "slug": "training",
+  "records": 829
+ },
+ {
+  "name": "Isekaied Into a Novel",
+  "slug": "isekaied_into_a_novel",
+  "records": 820
+ },
+ {
+  "name": "Long-Haired Male Lead",
+  "slug": "long_haired_male_lead",
+  "records": 818
+ },
+ {
+  "name": "Adult Protagonist",
+  "slug": "adult_protagonist",
+  "records": 815
+ },
+ {
+  "name": "Chinese Ambience",
+  "slug": "chinese_ambience",
+  "records": 815
+ },
+ {
+  "name": "Fashion",
+  "slug": "fashion",
+  "records": 813
+ },
+ {
+  "name": "Shotacon",
+  "slug": "shotacon",
+  "records": 813
+ },
+ {
+  "name": "Lust",
+  "slug": "lust",
+  "records": 811
+ },
+ {
+  "name": "Appearance Different from Actual Age",
+  "slug": "appearance_different_from_actual_age",
+  "records": 808
+ },
+ {
+  "name": "Perverts",
+  "slug": "perverts",
+  "records": 805
+ },
+ {
+  "name": "School Girl",
+  "slug": "school_girl",
+  "records": 804
+ },
+ {
+  "name": "Iyashikei",
+  "slug": "iyashikei",
+  "records": 802
+ },
+ {
+  "name": "Korean Folklore",
+  "slug": "korean_folklore",
+  "records": 802
+ },
+ {
+  "name": "CEOs",
+  "slug": "ceos",
+  "records": 800
+ },
+ {
+  "name": "Princess",
+  "slug": "princess",
+  "records": 796
+ },
+ {
+  "name": "Slavery",
+  "slug": "slavery",
+  "records": 796
+ },
+ {
+  "name": "Elves",
+  "slug": "elves",
+  "records": 794
+ },
+ {
+  "name": "Adult couple",
+  "slug": "adult_couple",
+  "records": 791
+ },
+ {
+  "name": "Sexual Innuendo",
+  "slug": "sexual_innuendo",
+  "records": 788
+ },
+ {
+  "name": "Pets",
+  "slug": "pets",
+  "records": 777
+ },
+ {
+  "name": "Social Gap",
+  "slug": "social_gap",
+  "records": 777
+ },
+ {
+  "name": "Adapted to Live Action",
+  "slug": "adapted_to_live_action",
+  "records": 773
+ },
+ {
+  "name": "Family",
+  "slug": "family",
+  "records": 773
+ },
+ {
+  "name": "Hard-Working Protagonist",
+  "slug": "hard_working_protagonist",
+  "records": 772
+ },
+ {
+  "name": "Monster Girls",
+  "slug": "monster_girls",
+  "records": 771
+ },
+ {
+  "name": "Second Chance",
+  "slug": "second_chance",
+  "records": 771
+ },
+ {
+  "name": "Showbiz",
+  "slug": "showbiz",
+  "records": 771
+ },
+ {
+  "name": "Unrealistic Fighting",
+  "slug": "unrealistic_fighting",
+  "records": 763
+ },
+ {
+  "name": "Important Non-Romantic Relationship",
+  "slug": "important_non_romantic_relationship",
+  "records": 757
+ },
+ {
+  "name": "Fingering",
+  "slug": "fingering",
+  "records": 756
+ },
+ {
+  "name": "Trauma",
+  "slug": "trauma",
+  "records": 756
+ },
+ {
+  "name": "Seme Falling In Love First",
+  "slug": "seme_falling_in_love_first",
+  "records": 753
+ },
+ {
+  "name": "Attempted Murder",
+  "slug": "attempted_murder",
+  "records": 752
+ },
+ {
+  "name": "Reverse Harem",
+  "slug": "reverse_harem",
+  "records": 752
+ },
+ {
+  "name": "Time Rewind",
+  "slug": "time_rewind",
+  "records": 751
+ },
+ {
+  "name": "Mafia",
+  "slug": "mafia",
+  "records": 748
+ },
+ {
+  "name": "Animal Protagonists",
+  "slug": "animal_protagonists",
+  "records": 745
+ },
+ {
+  "name": "Caught in the Act",
+  "slug": "caught_in_the_act",
+  "records": 734
+ },
+ {
+  "name": "LGBTQ+ Characters",
+  "slug": "lgbtq_characters",
+  "records": 721
+ },
+ {
+  "name": "Bondage",
+  "slug": "bondage",
+  "records": 717
+ },
+ {
+  "name": "Cunnilingus",
+  "slug": "cunnilingus",
+  "records": 716
+ },
+ {
+  "name": "Drugs",
+  "slug": "drugs",
+  "records": 716
+ },
+ {
+  "name": "Ancient China",
+  "slug": "ancient_china",
+  "records": 715
+ },
+ {
+  "name": "Philosophy",
+  "slug": "philosophy",
+  "records": 715
+ },
+ {
+  "name": "Multiple Couples",
+  "slug": "multiple_couples",
+  "records": 711
+ },
+ {
+  "name": "Club",
+  "slug": "club",
+  "records": 709
+ },
+ {
+  "name": "20th Century",
+  "slug": "20th_century",
+  "records": 706
+ },
+ {
+  "name": "Swordsman",
+  "slug": "swordsman",
+  "records": 706
+ },
+ {
+  "name": "Transmigration",
+  "slug": "transmigration",
+  "records": 706
+ },
+ {
+  "name": "Angels",
+  "slug": "angels",
+  "records": 705
+ },
+ {
+  "name": "Animal Transformation",
+  "slug": "animal_transformation",
+  "records": 705
+ },
+ {
+  "name": "Zombies",
+  "slug": "zombies",
+  "records": 705
+ },
+ {
+  "name": "Debts",
+  "slug": "debts",
+  "records": 699
+ },
+ {
+  "name": "Insecurity",
+  "slug": "insecurity",
+  "records": 699
+ },
+ {
+  "name": "Kind female Lead",
+  "slug": "kind_female_lead",
+  "records": 696
+ },
+ {
+  "name": "Child Abuse",
+  "slug": "child_abuse",
+  "records": 695
+ },
+ {
+  "name": "Cute Girls Doing Cute Things",
+  "slug": "cute_girls_doing_cute_things",
+  "records": 694
+ },
+ {
+  "name": "Shapeshifting",
+  "slug": "shapeshifting",
+  "records": 693
+ },
+ {
+  "name": "Knight",
+  "slug": "knight",
+  "records": 690
+ },
+ {
+  "name": "Female Fighters",
+  "slug": "female_fighters",
+  "records": 689
+ },
+ {
+  "name": "Sex Toys",
+  "slug": "sex_toys",
+  "records": 685
+ },
+ {
+  "name": "Kissing",
+  "slug": "kissing",
+  "records": 682
+ },
+ {
+  "name": "Protagonist Strong from the Start",
+  "slug": "protagonist_strong_from_the_start",
+  "records": 681
+ },
+ {
+  "name": "Death",
+  "slug": "death",
+  "records": 676
+ },
+ {
+  "name": "Adult Male Lead",
+  "slug": "adult_male_lead",
+  "records": 670
+ },
+ {
+  "name": "Scars",
+  "slug": "scars",
+  "records": 668
+ },
+ {
+  "name": "Married Couple",
+  "slug": "married_couple",
+  "records": 663
+ },
+ {
+  "name": "Autobiographical",
+  "slug": "autobiographical",
+  "records": 660
+ },
+ {
+  "name": "Medieval",
+  "slug": "medieval",
+  "records": 657
+ },
+ {
+  "name": "Sisters",
+  "slug": "sisters",
+  "records": 657
+ },
+ {
+  "name": "Male Harem",
+  "slug": "male_harem",
+  "records": 656
+ },
+ {
+  "name": "Swords",
+  "slug": "swords",
+  "records": 653
+ },
+ {
+  "name": "Glasses-Wearing Protagonist",
+  "slug": "glasses_wearing_protagonist",
+  "records": 652
+ },
+ {
+  "name": "Mages",
+  "slug": "mages",
+  "records": 652
+ },
+ {
+  "name": "Baseball",
+  "slug": "baseball",
+  "records": 649
+ },
+ {
+  "name": "Reincarnated in Another World",
+  "slug": "reincarnated_in_another_world",
+  "records": 649
+ },
+ {
+  "name": "Gyaru",
+  "slug": "gyaru",
+  "records": 647
+ },
+ {
+  "name": "Dogs",
+  "slug": "dogs",
+  "records": 646
+ },
+ {
+  "name": "Glasses-Wearing Female Lead",
+  "slug": "glasses_wearing_female_lead",
+  "records": 642
+ },
+ {
+  "name": "Smart Protagonist",
+  "slug": "smart_protagonist",
+  "records": 632
+ },
+ {
+  "name": "Stalkers",
+  "slug": "stalkers",
+  "records": 631
+ },
+ {
+  "name": "Roommates",
+  "slug": "roommates",
+  "records": 627
+ },
+ {
+  "name": "Torture",
+  "slug": "torture",
+  "records": 625
+ },
+ {
+  "name": "Workplace Romance",
+  "slug": "workplace_romance",
+  "records": 623
+ },
+ {
+  "name": "Pregnancy",
+  "slug": "pregnancy",
+  "records": 619
+ },
+ {
+  "name": "Public Intercourse",
+  "slug": "public_intercourse",
+  "records": 611
+ },
+ {
+  "name": "Childhood Love",
+  "slug": "childhood_love",
+  "records": 610
+ },
+ {
+  "name": "Space",
+  "slug": "space",
+  "records": 610
+ },
+ {
+  "name": "Modeling",
+  "slug": "modeling",
+  "records": 609
+ },
+ {
+  "name": "Brother Complex",
+  "slug": "brother_complex",
+  "records": 606
+ },
+ {
+  "name": "Mahou Shoujo",
+  "slug": "mahou_shoujo",
+  "records": 602
+ },
+ {
+  "name": "Based on a Visual Novel",
+  "slug": "based_on_a_visual_novel",
+  "records": 601
+ },
+ {
+  "name": "Threesome",
+  "slug": "threesome",
+  "records": 600
+ },
+ {
+  "name": "Overpowered Protagonist",
+  "slug": "overpowered_protagonist",
+  "records": 599
+ },
+ {
+  "name": "Meta",
+  "slug": "meta",
+  "records": 597
+ },
+ {
+  "name": "Long-Haired Male Character",
+  "slug": "long_haired_male_character",
+  "records": 594
+ },
+ {
+  "name": "Part-Time Job",
+  "slug": "part_time_job",
+  "records": 593
+ },
+ {
+  "name": "Sadism",
+  "slug": "sadism",
+  "records": 591
+ },
+ {
+  "name": "Demon King",
+  "slug": "demon_king",
+  "records": 588
+ },
+ {
+  "name": "Manipulation",
+  "slug": "manipulation",
+  "records": 585
+ },
+ {
+  "name": "Fetishes",
+  "slug": "fetishes",
+  "records": 584
+ },
+ {
+  "name": "Sex Friends",
+  "slug": "sex_friends",
+  "records": 581
+ },
+ {
+  "name": "Based on a Game",
+  "slug": "based_on_a_game",
+  "records": 580
+ },
+ {
+  "name": "Dystopian",
+  "slug": "dystopian",
+  "records": 576
+ },
+ {
+  "name": "Dungeon",
+  "slug": "dungeon",
+  "records": 571
+ },
+ {
+  "name": "School Boy",
+  "slug": "school_boy",
+  "records": 571
+ },
+ {
+  "name": "Fast romance",
+  "slug": "fast_romance",
+  "records": 569
+ },
+ {
+  "name": "Arrogant Characters",
+  "slug": "arrogant_characters",
+  "records": 565
+ },
+ {
+  "name": "Secrets",
+  "slug": "secrets",
+  "records": 565
+ },
+ {
+  "name": "Mass Murder",
+  "slug": "mass_murder",
+  "records": 561
+ },
+ {
+  "name": "Hidden past",
+  "slug": "hidden_past",
+  "records": 560
+ },
+ {
+  "name": "Biographies",
+  "slug": "biographies",
+  "records": 559
+ },
+ {
+  "name": "Historical Fiction",
+  "slug": "historical_fiction",
+  "records": 556
+ },
+ {
+  "name": "Injury",
+  "slug": "injury",
+  "records": 554
+ },
+ {
+  "name": "Inexperienced in love",
+  "slug": "inexperienced_in_love",
+  "records": 553
+ },
+ {
+  "name": "Body Swapping",
+  "slug": "body_swapping",
+  "records": 552
+ },
+ {
+  "name": "Politics Involving Royalty",
+  "slug": "politics_involving_royalty",
+  "records": 552
+ },
+ {
+  "name": "Japanese Mythology",
+  "slug": "japanese_mythology",
+  "records": 551
+ },
+ {
+  "name": "Sex Addict",
+  "slug": "sex_addict",
+  "records": 551
+ },
+ {
+  "name": "Island",
+  "slug": "island",
+  "records": 546
+ },
+ {
+  "name": "Undergarment",
+  "slug": "undergarment",
+  "records": 546
+ },
+ {
+  "name": "Exorcism",
+  "slug": "exorcism",
+  "records": 545
+ },
+ {
+  "name": "Split Personality",
+  "slug": "split_personality",
+  "records": 543
+ },
+ {
+  "name": "Beauty Mark",
+  "slug": "beauty_mark",
+  "records": 539
+ },
+ {
+  "name": "Henshin",
+  "slug": "henshin",
+  "records": 539
+ },
+ {
+  "name": "Coworker Relationships",
+  "slug": "coworker_relationships",
+  "records": 538
+ },
+ {
+  "name": "Glasses-Wearing Uke",
+  "slug": "glasses_wearing_uke",
+  "records": 536
+ },
+ {
+  "name": "Primarily Child Cast",
+  "slug": "primarily_child_cast",
+  "records": 536
+ },
+ {
+  "name": "Shameless Female Lead",
+  "slug": "shameless_female_lead",
+  "records": 536
+ },
+ {
+  "name": "Based on Real Life",
+  "slug": "based_on_real_life",
+  "records": 534
+ },
+ {
+  "name": "Panchira",
+  "slug": "panchira",
+  "records": 532
+ },
+ {
+  "name": "Drunken Intercourse",
+  "slug": "drunken_intercourse",
+  "records": 531
+ },
+ {
+  "name": "Gay Uke",
+  "slug": "gay_uke",
+  "records": 531
+ },
+ {
+  "name": "Rivalry",
+  "slug": "rivalry",
+  "records": 531
+ },
+ {
+  "name": "Psychopaths",
+  "slug": "psychopaths",
+  "records": 530
+ },
+ {
+  "name": "Liar",
+  "slug": "liar",
+  "records": 528
+ },
+ {
+  "name": "Rich Characters",
+  "slug": "rich_characters",
+  "records": 526
+ },
+ {
+  "name": "Politicians",
+  "slug": "politicians",
+  "records": 525
+ },
+ {
+  "name": "Smoking",
+  "slug": "smoking",
+  "records": 525
+ },
+ {
+  "name": "Appearance Changes",
+  "slug": "appearance_changes",
+  "records": 523
+ },
+ {
+  "name": "Dark/Tan Skin",
+  "slug": "dark_tan_skin",
+  "records": 520
+ },
+ {
+  "name": "Lifestyle Change",
+  "slug": "lifestyle_change",
+  "records": 520
+ },
+ {
+  "name": "Nekomimi",
+  "slug": "nekomimi",
+  "records": 520
+ },
+ {
+  "name": "Restaurant",
+  "slug": "restaurant",
+  "records": 518
+ },
+ {
+  "name": "Corruption",
+  "slug": "corruption",
+  "records": 517
+ },
+ {
+  "name": "Saving the World",
+  "slug": "saving_the_world",
+  "records": 516
+ },
+ {
+  "name": "Actor",
+  "slug": "actor",
+  "records": 514
+ },
+ {
+  "name": "Historical Setting",
+  "slug": "historical_setting",
+  "records": 514
+ },
+ {
+  "name": "Angst",
+  "slug": "angst",
+  "records": 513
+ },
+ {
+  "name": "Gambling",
+  "slug": "gambling",
+  "records": 509
+ },
+ {
+  "name": "Emotionally Strong Female Lead",
+  "slug": "emotionally_strong_female_lead",
+  "records": 508
+ },
+ {
+  "name": "Naive Female Lead",
+  "slug": "naive_female_lead",
+  "records": 504
+ },
+ {
+  "name": "Ninja",
+  "slug": "ninja",
+  "records": 504
+ },
+ {
+  "name": "Arrogant Male Lead",
+  "slug": "arrogant_male_lead",
+  "records": 503
+ },
+ {
+  "name": "Found Family",
+  "slug": "found_family",
+  "records": 501
+ },
+ {
+  "name": "Chibi",
+  "slug": "chibi",
+  "records": 500
+ },
+ {
+  "name": "Team Sports",
+  "slug": "team_sports",
+  "records": 500
+ },
+ {
+  "name": "Abuse of Power",
+  "slug": "abuse_of_power",
+  "records": 499
+ },
+ {
+  "name": "Cold Male Lead",
+  "slug": "cold_male_lead",
+  "records": 497
+ },
+ {
+  "name": "Office Romance",
+  "slug": "office_romance",
+  "records": 494
+ },
+ {
+  "name": "Blushing Male Lead",
+  "slug": "blushing_male_lead",
+  "records": 493
+ },
+ {
+  "name": "Ojou-sama",
+  "slug": "ojou_sama",
+  "records": 492
+ },
+ {
+  "name": "Time Skip In Final Chapter/Epilogue",
+  "slug": "time_skip_in_final_chapter_epilogue",
+  "records": 492
+ },
+ {
+  "name": "Kuudere Characters",
+  "slug": "kuudere_characters",
+  "records": 491
+ },
+ {
+  "name": "Best Friends",
+  "slug": "best_friends",
+  "records": 488
+ },
+ {
+  "name": "Subtle Romance",
+  "slug": "subtle_romance",
+  "records": 485
+ },
+ {
+  "name": "Child Protagonist",
+  "slug": "child_protagonist",
+  "records": 481
+ },
+ {
+  "name": "Group Intercourse",
+  "slug": "group_intercourse",
+  "records": 480
+ },
+ {
+  "name": "Outdoor Intercourse",
+  "slug": "outdoor_intercourse",
+  "records": 479
+ },
+ {
+  "name": "Absent Parent",
+  "slug": "absent_parent",
+  "records": 478
+ },
+ {
+  "name": "Deception",
+  "slug": "deception",
+  "records": 477
+ },
+ {
+  "name": "Café",
+  "slug": "caf",
+  "records": 476
+ },
+ {
+  "name": "Korean Boys Love",
+  "slug": "korean_boys_love",
+  "records": 476
+ },
+ {
+  "name": "Memory Manipulation",
+  "slug": "memory_manipulation",
+  "records": 475
+ },
+ {
+  "name": "Lies",
+  "slug": "lies",
+  "records": 473
+ },
+ {
+  "name": "Blonde-Haired Male Lead",
+  "slug": "blonde_haired_male_lead",
+  "records": 472
+ },
+ {
+  "name": "Bickering Love",
+  "slug": "bickering_love",
+  "records": 471
+ },
+ {
+  "name": "Adult Female Lead",
+  "slug": "adult_female_lead",
+  "records": 469
+ },
+ {
+  "name": "Rich Family",
+  "slug": "rich_family",
+  "records": 469
+ },
+ {
+  "name": "Alcohol",
+  "slug": "alcohol",
+  "records": 468
+ },
+ {
+  "name": "All-Girls School",
+  "slug": "all_girls_school",
+  "records": 468
+ },
+ {
+  "name": "Band",
+  "slug": "band",
+  "records": 467
+ },
+ {
+  "name": "Transgender",
+  "slug": "transgender",
+  "records": 463
+ },
+ {
+  "name": "Abuse",
+  "slug": "abuse",
+  "records": 462
+ },
+ {
+  "name": "Bodyguard",
+  "slug": "bodyguard",
+  "records": 462
+ },
+ {
+  "name": "Shy Protagonist",
+  "slug": "shy_protagonist",
+  "records": 459
+ },
+ {
+  "name": "Photography",
+  "slug": "photography",
+  "records": 458
+ },
+ {
+  "name": "Strong Character",
+  "slug": "strong_character",
+  "records": 456
+ },
+ {
+  "name": "Rich Female Lead",
+  "slug": "rich_female_lead",
+  "records": 454
+ },
+ {
+  "name": "Dreams",
+  "slug": "dreams",
+  "records": 453
+ },
+ {
+  "name": "One-Night Stand",
+  "slug": "one_night_stand",
+  "records": 453
+ },
+ {
+  "name": "First Kiss",
+  "slug": "first_kiss",
+  "records": 452
+ },
+ {
+  "name": "Straight Seme",
+  "slug": "straight_seme",
+  "records": 452
+ },
+ {
+  "name": "Strong-Willed Female Lead",
+  "slug": "strong_willed_female_lead",
+  "records": 451
+ },
+ {
+  "name": "Attempted Suicide",
+  "slug": "attempted_suicide",
+  "records": 450
+ },
+ {
+  "name": "Tall Male Lead",
+  "slug": "tall_male_lead",
+  "records": 449
+ },
+ {
+  "name": "Established Couple",
+  "slug": "established_couple",
+  "records": 448
+ },
+ {
+  "name": "Illness",
+  "slug": "illness",
+  "records": 448
+ },
+ {
+  "name": "Bisexual Male Lead",
+  "slug": "bisexual_male_lead",
+  "records": 447
+ },
+ {
+  "name": "Personality Change",
+  "slug": "personality_change",
+  "records": 447
+ },
+ {
+  "name": "Perverted Male Lead",
+  "slug": "perverted_male_lead",
+  "records": 447
+ },
+ {
+  "name": "Contracts",
+  "slug": "contracts",
+  "records": 446
+ },
+ {
+  "name": "Determined Protagonist",
+  "slug": "determined_protagonist",
+  "records": 444
+ },
+ {
+  "name": "Popular Female Lead",
+  "slug": "popular_female_lead",
+  "records": 442
+ },
+ {
+  "name": "Teenagers",
+  "slug": "teenagers",
+  "records": 442
+ },
+ {
+  "name": "Artist",
+  "slug": "artist",
+  "records": 440
+ },
+ {
+  "name": "Studious Character",
+  "slug": "studious_character",
+  "records": 440
+ },
+ {
+  "name": "Sadists",
+  "slug": "sadists",
+  "records": 439
+ },
+ {
+  "name": "Dead Lover",
+  "slug": "dead_lover",
+  "records": 438
+ },
+ {
+  "name": "Handsome Seme",
+  "slug": "handsome_seme",
+  "records": 438
+ },
+ {
+  "name": "Character Who Bullies the One They Love",
+  "slug": "character_who_bullies_the_one_they_love",
+  "records": 437
+ },
+ {
+  "name": "Investigation",
+  "slug": "investigation",
+  "records": 437
+ },
+ {
+  "name": "Marriage Proposal",
+  "slug": "marriage_proposal",
+  "records": 437
+ },
+ {
+  "name": "Based on a Doujinshi",
+  "slug": "based_on_a_doujinshi",
+  "records": 435
+ },
+ {
+  "name": "Abusive Family Member",
+  "slug": "abusive_family_member",
+  "records": 434
+ },
+ {
+  "name": "Single Parent",
+  "slug": "single_parent",
+  "records": 434
+ },
+ {
+  "name": "Bar",
+  "slug": "bar",
+  "records": 433
+ },
+ {
+  "name": "Masculine Uke",
+  "slug": "masculine_uke",
+  "records": 432
+ },
+ {
+  "name": "Student Council",
+  "slug": "student_council",
+  "records": 431
+ },
+ {
+  "name": "Butler",
+  "slug": "butler",
+  "records": 429
+ },
+ {
+  "name": "Secret Relationship",
+  "slug": "secret_relationship",
+  "records": 428
+ },
+ {
+  "name": "Future",
+  "slug": "future",
+  "records": 426
+ },
+ {
+  "name": "Brother and Sister",
+  "slug": "brother_and_sister",
+  "records": 425
+ },
+ {
+  "name": "Mermaid",
+  "slug": "mermaid",
+  "records": 425
+ },
+ {
+  "name": "Stolen Kiss",
+  "slug": "stolen_kiss",
+  "records": 424
+ },
+ {
+  "name": "Supernatural Elements",
+  "slug": "supernatural_elements",
+  "records": 423
+ },
+ {
+  "name": "Adapted to Movie",
+  "slug": "adapted_to_movie",
+  "records": 422
+ },
+ {
+  "name": "Kuudere",
+  "slug": "kuudere",
+  "records": 421
+ },
+ {
+  "name": "Art",
+  "slug": "art",
+  "records": 420
+ },
+ {
+  "name": "Art Forms",
+  "slug": "art_forms",
+  "records": 420
+ },
+ {
+  "name": "19th Century",
+  "slug": "19th_century",
+  "records": 419
+ },
+ {
+  "name": "Accidents",
+  "slug": "accidents",
+  "records": 419
+ },
+ {
+  "name": "Historical Persons",
+  "slug": "historical_persons",
+  "records": 419
+ },
+ {
+  "name": "School Intercourse",
+  "slug": "school_intercourse",
+  "records": 419
+ },
+ {
+  "name": "Seduction",
+  "slug": "seduction",
+  "records": 419
+ },
+ {
+  "name": "Wuxia",
+  "slug": "wuxia",
+  "records": 419
+ },
+ {
+  "name": "Rumors",
+  "slug": "rumors",
+  "records": 418
+ },
+ {
+  "name": "Sexual Harassment",
+  "slug": "sexual_harassment",
+  "records": 418
+ },
+ {
+  "name": "Seeing Things Other Humans Can't",
+  "slug": "seeing_things_other_humans_can_t",
+  "records": 417
+ },
+ {
+  "name": "Artificial Intelligence",
+  "slug": "artificial_intelligence",
+  "records": 415
+ },
+ {
+  "name": "Changed by Love",
+  "slug": "changed_by_love",
+  "records": 415
+ },
+ {
+  "name": "Historical References",
+  "slug": "historical_references",
+  "records": 415
+ },
+ {
+  "name": "America",
+  "slug": "america",
+  "records": 414
+ },
+ {
+  "name": "Finding Love Again",
+  "slug": "finding_love_again",
+  "records": 414
+ },
+ {
+  "name": "Adventurers",
+  "slug": "adventurers",
+  "records": 413
+ },
+ {
+  "name": "Boarding School",
+  "slug": "boarding_school",
+  "records": 413
+ },
+ {
+  "name": "Ex-Boyfriends",
+  "slug": "ex_boyfriends",
+  "records": 413
+ },
+ {
+  "name": "Regret",
+  "slug": "regret",
+  "records": 413
+ },
+ {
+  "name": "Chinese Mythology",
+  "slug": "chinese_mythology",
+  "records": 411
+ },
+ {
+  "name": "Werewolves",
+  "slug": "werewolves",
+  "records": 411
+ },
+ {
+  "name": "Rescue",
+  "slug": "rescue",
+  "records": 409
+ },
+ {
+  "name": "Mysterious Elements",
+  "slug": "mysterious_elements",
+  "records": 408
+ },
+ {
+  "name": "Hero",
+  "slug": "hero",
+  "records": 407
+ },
+ {
+  "name": "Tattoo",
+  "slug": "tattoo",
+  "records": 407
+ },
+ {
+  "name": "Married Life",
+  "slug": "married_life",
+  "records": 406
+ },
+ {
+  "name": "Comedic Undertone",
+  "slug": "comedic_undertone",
+  "records": 405
+ },
+ {
+  "name": "Cosplay",
+  "slug": "cosplay",
+  "records": 405
+ },
+ {
+  "name": "Saints",
+  "slug": "saints",
+  "records": 403
+ },
+ {
+  "name": "Glasses-Wearing Seme",
+  "slug": "glasses_wearing_seme",
+  "records": 402
+ },
+ {
+  "name": "Manly Gay Couple",
+  "slug": "manly_gay_couple",
+  "records": 402
+ },
+ {
+  "name": "Superheroes",
+  "slug": "superheroes",
+  "records": 401
+ },
+ {
+  "name": "Afterlife",
+  "slug": "afterlife",
+  "records": 400
+ },
+ {
+  "name": "Younger Sister",
+  "slug": "younger_sister",
+  "records": 400
+ },
+ {
+  "name": "Blonde-Haired Female Lead",
+  "slug": "blonde_haired_female_lead",
+  "records": 398
+ },
+ {
+  "name": "Suits",
+  "slug": "suits",
+  "records": 398
+ },
+ {
+  "name": "Childhood Trauma",
+  "slug": "childhood_trauma",
+  "records": 397
+ },
+ {
+  "name": "Cult",
+  "slug": "cult",
+  "records": 397
+ },
+ {
+  "name": "Cousins",
+  "slug": "cousins",
+  "records": 396
+ },
+ {
+  "name": "Affectionate Seme",
+  "slug": "affectionate_seme",
+  "records": 395
+ },
+ {
+  "name": "Children",
+  "slug": "children",
+  "records": 395
+ },
+ {
+  "name": "Manipulative Antagonists",
+  "slug": "manipulative_antagonists",
+  "records": 395
+ },
+ {
+  "name": "Martial Artist",
+  "slug": "martial_artist",
+  "records": 393
+ },
+ {
+  "name": "White/Silver-Haired Character",
+  "slug": "white_silver_haired_character",
+  "records": 393
+ },
+ {
+  "name": "Shy Female Lead",
+  "slug": "shy_female_lead",
+  "records": 389
+ },
+ {
+  "name": "Fake Relationship",
+  "slug": "fake_relationship",
+  "records": 387
+ },
+ {
+  "name": "Abused Female Lead",
+  "slug": "abused_female_lead",
+  "records": 386
+ },
+ {
+  "name": "England",
+  "slug": "england",
+  "records": 386
+ },
+ {
+  "name": "White/Silver-Haired Male Lead",
+  "slug": "white_silver_haired_male_lead",
+  "records": 386
+ },
+ {
+  "name": "Hidden Powers",
+  "slug": "hidden_powers",
+  "records": 385
+ },
+ {
+  "name": "Cute Female Lead",
+  "slug": "cute_female_lead",
+  "records": 384
+ },
+ {
+  "name": "Dumb Female Lead",
+  "slug": "dumb_female_lead",
+  "records": 383
+ },
+ {
+  "name": "Scheming Character",
+  "slug": "scheming_character",
+  "records": 383
+ },
+ {
+  "name": "Sex Friends to Lovers",
+  "slug": "sex_friends_to_lovers",
+  "records": 383
+ },
+ {
+  "name": "Dukes",
+  "slug": "dukes",
+  "records": 382
+ },
+ {
+  "name": "Estranged Family",
+  "slug": "estranged_family",
+  "records": 382
+ },
+ {
+  "name": "Alternate Universe",
+  "slug": "alternate_universe",
+  "records": 380
+ },
+ {
+  "name": "Comic Artist",
+  "slug": "comic_artist",
+  "records": 380
+ },
+ {
+  "name": "Runaways",
+  "slug": "runaways",
+  "records": 379
+ },
+ {
+  "name": "Strong Protagonist",
+  "slug": "strong_protagonist",
+  "records": 379
+ },
+ {
+  "name": "Perverted Female Lead",
+  "slug": "perverted_female_lead",
+  "records": 377
+ },
+ {
+  "name": "Rehabilitation",
+  "slug": "rehabilitation",
+  "records": 376
+ },
+ {
+  "name": "Stepsibling",
+  "slug": "stepsibling",
+  "records": 373
+ },
+ {
+  "name": "Classic Literature",
+  "slug": "classic_literature",
+  "records": 372
+ },
+ {
+  "name": "Memories of Past Life",
+  "slug": "memories_of_past_life",
+  "records": 372
+ },
+ {
+  "name": "Secret Organizations",
+  "slug": "secret_organizations",
+  "records": 371
+ },
+ {
+  "name": "Black-Haired Protagonist",
+  "slug": "black_haired_protagonist",
+  "records": 370
+ },
+ {
+  "name": "Human Experiment",
+  "slug": "human_experiment",
+  "records": 370
+ },
+ {
+  "name": "All-Boys School",
+  "slug": "all_boys_school",
+  "records": 369
+ },
+ {
+  "name": "Chasing After Love Interest",
+  "slug": "chasing_after_love_interest",
+  "records": 369
+ },
+ {
+  "name": "Inferiority Complex",
+  "slug": "inferiority_complex",
+  "records": 369
+ },
+ {
+  "name": "Models",
+  "slug": "models",
+  "records": 368
+ },
+ {
+  "name": "Inseki",
+  "slug": "inseki",
+  "records": 366
+ },
+ {
+  "name": "Cool Male Lead",
+  "slug": "cool_male_lead",
+  "records": 365
+ },
+ {
+  "name": "Dancing",
+  "slug": "dancing",
+  "records": 365
+ },
+ {
+  "name": "Kind Protagonist",
+  "slug": "kind_protagonist",
+  "records": 364
+ },
+ {
+  "name": "Sadomasochism",
+  "slug": "sadomasochism",
+  "records": 364
+ },
+ {
+  "name": "Muscular Male Lead",
+  "slug": "muscular_male_lead",
+  "records": 363
+ },
+ {
+  "name": "Virtual World",
+  "slug": "virtual_world",
+  "records": 363
+ },
+ {
+  "name": "Dissociative Identities",
+  "slug": "dissociative_identities",
+  "records": 362
+ },
+ {
+  "name": "Marriage of Convenience",
+  "slug": "marriage_of_convenience",
+  "records": 362
+ },
+ {
+  "name": "Swordswoman",
+  "slug": "swordswoman",
+  "records": 362
+ },
+ {
+  "name": "Social Hierarchy",
+  "slug": "social_hierarchy",
+  "records": 360
+ },
+ {
+  "name": "Tokusatsu",
+  "slug": "tokusatsu",
+  "records": 360
+ },
+ {
+  "name": "Adopted Protagonist",
+  "slug": "adopted_protagonist",
+  "records": 359
+ },
+ {
+  "name": "Older Brother",
+  "slug": "older_brother",
+  "records": 359
+ },
+ {
+  "name": "Possession",
+  "slug": "possession",
+  "records": 359
+ },
+ {
+  "name": "Teamwork",
+  "slug": "teamwork",
+  "records": 359
+ },
+ {
+  "name": "Homophobia",
+  "slug": "homophobia",
+  "records": 358
+ },
+ {
+  "name": "Trap",
+  "slug": "trap",
+  "records": 356
+ },
+ {
+  "name": "Bathroom Intercourse",
+  "slug": "bathroom_intercourse",
+  "records": 355
+ },
+ {
+  "name": "Unrequited Love Stays Unrequited",
+  "slug": "unrequited_love_stays_unrequited",
+  "records": 354
+ },
+ {
+  "name": "Wanko",
+  "slug": "wanko",
+  "records": 353
+ },
+ {
+  "name": "Noble Female Lead",
+  "slug": "noble_female_lead",
+  "records": 352
+ },
+ {
+  "name": "Sexual Abuse",
+  "slug": "sexual_abuse",
+  "records": 352
+ },
+ {
+  "name": "Emperors",
+  "slug": "emperors",
+  "records": 351
+ },
+ {
+  "name": "Mental Illness",
+  "slug": "mental_illness",
+  "records": 351
+ },
+ {
+  "name": "United States",
+  "slug": "united_states",
+  "records": 351
+ },
+ {
+  "name": "Weak Male Lead",
+  "slug": "weak_male_lead",
+  "records": 351
+ },
+ {
+  "name": "Younger Brother",
+  "slug": "younger_brother",
+  "records": 350
+ },
+ {
+  "name": "Kind Seme",
+  "slug": "kind_seme",
+  "records": 349
+ },
+ {
+  "name": "Middle-Aged Protagonist",
+  "slug": "middle_aged_protagonist",
+  "records": 349
+ },
+ {
+  "name": "Adapted to Jdrama",
+  "slug": "adapted_to_jdrama",
+  "records": 348
+ },
+ {
+  "name": "Couple Growth",
+  "slug": "couple_growth",
+  "records": 348
+ },
+ {
+  "name": "Succubus",
+  "slug": "succubus",
+  "records": 347
+ },
+ {
+  "name": "Muscular Female",
+  "slug": "muscular_female",
+  "records": 346
+ },
+ {
+  "name": "Fairy",
+  "slug": "fairy",
+  "records": 345
+ },
+ {
+  "name": "Loner Protagonist",
+  "slug": "loner_protagonist",
+  "records": 343
+ },
+ {
+  "name": "Older Male Younger Male",
+  "slug": "older_male_younger_male",
+  "records": 342
+ },
+ {
+  "name": "Netorare",
+  "slug": "netorare",
+  "records": 339
+ },
+ {
+  "name": "Innocent Female Lead",
+  "slug": "innocent_female_lead",
+  "records": 336
+ },
+ {
+  "name": "Past Encounter",
+  "slug": "past_encounter",
+  "records": 336
+ },
+ {
+  "name": "Basketball",
+  "slug": "basketball",
+  "records": 335
+ },
+ {
+  "name": "Illegitimate Child",
+  "slug": "illegitimate_child",
+  "records": 335
+ },
+ {
+  "name": "Plot Twist",
+  "slug": "plot_twist",
+  "records": 335
+ },
+ {
+  "name": "Androids",
+  "slug": "androids",
+  "records": 334
+ },
+ {
+  "name": "Sexually Active Couple",
+  "slug": "sexually_active_couple",
+  "records": 334
+ },
+ {
+  "name": "Sister Complex",
+  "slug": "sister_complex",
+  "records": 334
+ },
+ {
+  "name": "Tsundere Male Lead",
+  "slug": "tsundere_male_lead",
+  "records": 334
+ },
+ {
+  "name": "Anal Fingering",
+  "slug": "anal_fingering",
+  "records": 331
+ },
+ {
+  "name": "Competitions",
+  "slug": "competitions",
+  "records": 331
+ },
+ {
+  "name": "Football",
+  "slug": "football",
+  "records": 331
+ },
+ {
+  "name": "Hikikomori",
+  "slug": "hikikomori",
+  "records": 331
+ },
+ {
+  "name": "Host",
+  "slug": "host",
+  "records": 331
+ },
+ {
+  "name": "Possessive Seme",
+  "slug": "possessive_seme",
+  "records": 330
+ },
+ {
+  "name": "Straight Uke",
+  "slug": "straight_uke",
+  "records": 329
+ },
+ {
+  "name": "Lesbian Character",
+  "slug": "lesbian_character",
+  "records": 328
+ },
+ {
+  "name": "Gay Protagonist",
+  "slug": "gay_protagonist",
+  "records": 327
+ },
+ {
+  "name": "Anilingus",
+  "slug": "anilingus",
+  "records": 326
+ },
+ {
+  "name": "Breastfeeding",
+  "slug": "breastfeeding",
+  "records": 326
+ },
+ {
+  "name": "Goddess",
+  "slug": "goddess",
+  "records": 326
+ },
+ {
+  "name": "Piercings",
+  "slug": "piercings",
+  "records": 326
+ },
+ {
+  "name": "Short Male Lead",
+  "slug": "short_male_lead",
+  "records": 326
+ },
+ {
+  "name": "Dead Friend",
+  "slug": "dead_friend",
+  "records": 325
+ },
+ {
+  "name": "ESP",
+  "slug": "esp",
+  "records": 324
+ },
+ {
+  "name": "Entertainment Industry",
+  "slug": "entertainment_industry",
+  "records": 323
+ },
+ {
+  "name": "Medieval European Ambience",
+  "slug": "medieval_european_ambience",
+  "records": 321
+ },
+ {
+  "name": "Rich Seme",
+  "slug": "rich_seme",
+  "records": 321
+ },
+ {
+  "name": "Dense Character",
+  "slug": "dense_character",
+  "records": 320
+ },
+ {
+  "name": "Cannibalism",
+  "slug": "cannibalism",
+  "records": 318
+ },
+ {
+  "name": "Guilt",
+  "slug": "guilt",
+  "records": 317
+ },
+ {
+  "name": "Edo Period",
+  "slug": "edo_period",
+  "records": 316
+ },
+ {
+  "name": "Love Rival",
+  "slug": "love_rival",
+  "records": 316
+ },
+ {
+  "name": "Memories",
+  "slug": "memories",
+  "records": 316
+ },
+ {
+  "name": "Nipple Play",
+  "slug": "nipple_play",
+  "records": 316
+ },
+ {
+  "name": "Celebrity",
+  "slug": "celebrity",
+  "records": 315
+ },
+ {
+  "name": "Fairy Tale",
+  "slug": "fairy_tale",
+  "records": 315
+ },
+ {
+  "name": "Obsession",
+  "slug": "obsession",
+  "records": 315
+ },
+ {
+  "name": "Persistent Seme",
+  "slug": "persistent_seme",
+  "records": 315
+ },
+ {
+  "name": "Talented Male Lead",
+  "slug": "talented_male_lead",
+  "records": 315
+ },
+ {
+  "name": "Abandoned Child/ren",
+  "slug": "abandoned_child_ren",
+  "records": 314
+ },
+ {
+  "name": "Androgynous Male Lead",
+  "slug": "androgynous_male_lead",
+  "records": 314
+ },
+ {
+  "name": "Fugitive",
+  "slug": "fugitive",
+  "records": 314
+ },
+ {
+  "name": "Soldier",
+  "slug": "soldier",
+  "records": 313
+ },
+ {
+  "name": "Wish",
+  "slug": "wish",
+  "records": 313
+ },
+ {
+  "name": "Cyborg",
+  "slug": "cyborg",
+  "records": 312
+ },
+ {
+  "name": "Genius",
+  "slug": "genius",
+  "records": 312
+ },
+ {
+  "name": "Hand to Hand Combat",
+  "slug": "hand_to_hand_combat",
+  "records": 312
+ },
+ {
+  "name": "Apocalypse",
+  "slug": "apocalypse",
+  "records": 311
+ },
+ {
+  "name": "Bisexual Protagonist",
+  "slug": "bisexual_protagonist",
+  "records": 311
+ },
+ {
+  "name": "Time Progression",
+  "slug": "time_progression",
+  "records": 311
+ },
+ {
+  "name": "Age Transformation",
+  "slug": "age_transformation",
+  "records": 310
+ },
+ {
+  "name": "Fated Lovers",
+  "slug": "fated_lovers",
+  "records": 310
+ },
+ {
+  "name": "Death Game",
+  "slug": "death_game",
+  "records": 309
+ },
+ {
+  "name": "Multiple POVs",
+  "slug": "multiple_povs",
+  "records": 309
+ },
+ {
+  "name": "Strategy Game",
+  "slug": "strategy_game",
+  "records": 309
+ },
+ {
+  "name": "Tsundere Female Lead",
+  "slug": "tsundere_female_lead",
+  "records": 309
+ },
+ {
+  "name": "Secret Crush",
+  "slug": "secret_crush",
+  "records": 308
+ },
+ {
+  "name": "Businessman/Businesswoman",
+  "slug": "businessman_businesswoman",
+  "records": 307
+ },
+ {
+  "name": "Piloted Robots",
+  "slug": "piloted_robots",
+  "records": 307
+ },
+ {
+  "name": "Magic School",
+  "slug": "magic_school",
+  "records": 305
+ },
+ {
+  "name": "Sexually Active Protagonist",
+  "slug": "sexually_active_protagonist",
+  "records": 305
+ },
+ {
+  "name": "Alpha x Omega",
+  "slug": "alpha_x_omega",
+  "records": 304
+ },
+ {
+  "name": "Clumsy Character",
+  "slug": "clumsy_character",
+  "records": 304
+ },
+ {
+  "name": "Exorcists",
+  "slug": "exorcists",
+  "records": 304
+ },
+ {
+  "name": "Searching for Someone",
+  "slug": "searching_for_someone",
+  "records": 304
+ },
+ {
+  "name": "Based on a Fairy Tale",
+  "slug": "based_on_a_fairy_tale",
+  "records": 303
+ },
+ {
+  "name": "Heartwarming",
+  "slug": "heartwarming",
+  "records": 303
+ },
+ {
+  "name": "Skills",
+  "slug": "skills",
+  "records": 303
+ },
+ {
+  "name": "Academy",
+  "slug": "academy",
+  "records": 301
+ },
+ {
+  "name": "Adopted Children",
+  "slug": "adopted_children",
+  "records": 301
+ },
+ {
+  "name": "Game World",
+  "slug": "game_world",
+  "records": 301
+ },
+ {
+  "name": "High School Student Female Lead",
+  "slug": "high_school_student_female_lead",
+  "records": 301
+ },
+ {
+  "name": "Talented Female Lead",
+  "slug": "talented_female_lead",
+  "records": 301
+ },
+ {
+  "name": "Adapted to OVA / OAV",
+  "slug": "adapted_to_ova_oav",
+  "records": 300
+ },
+ {
+  "name": "Birds",
+  "slug": "birds",
+  "records": 300
+ },
+ {
+  "name": "Childhood Promise",
+  "slug": "childhood_promise",
+  "records": 300
+ },
+ {
+  "name": "Clumsy Protagonist",
+  "slug": "clumsy_protagonist",
+  "records": 300
+ },
+ {
+  "name": "Magic Items",
+  "slug": "magic_items",
+  "records": 300
+ },
+ {
+  "name": "Coastal",
+  "slug": "coastal",
+  "records": 299
+ },
+ {
+  "name": "Love Status Quo",
+  "slug": "love_status_quo",
+  "records": 299
+ },
+ {
+  "name": "Based on a Classic",
+  "slug": "based_on_a_classic",
+  "records": 298
+ },
+ {
+  "name": "Time Loop",
+  "slug": "time_loop",
+  "records": 298
+ },
+ {
+  "name": "Calm Protagonist",
+  "slug": "calm_protagonist",
+  "records": 296
+ },
+ {
+  "name": "High School Student Male Lead",
+  "slug": "high_school_student_male_lead",
+  "records": 296
+ },
+ {
+  "name": "Short Female Lead",
+  "slug": "short_female_lead",
+  "records": 296
+ },
+ {
+  "name": "System",
+  "slug": "system",
+  "records": 295
+ },
+ {
+  "name": "Priests",
+  "slug": "priests",
+  "records": 294
+ },
+ {
+  "name": "Thieves",
+  "slug": "thieves",
+  "records": 294
+ },
+ {
+  "name": "Virtual Reality",
+  "slug": "virtual_reality",
+  "records": 293
+ },
+ {
+  "name": "BDSM",
+  "slug": "bdsm",
+  "records": 292
+ },
+ {
+  "name": "Voyeur",
+  "slug": "voyeur",
+  "records": 290
+ },
+ {
+  "name": "First Time Dating",
+  "slug": "first_time_dating",
+  "records": 289
+ },
+ {
+  "name": "Middle School",
+  "slug": "middle_school",
+  "records": 289
+ },
+ {
+  "name": "Tall Female Lead",
+  "slug": "tall_female_lead",
+  "records": 289
+ },
+ {
+  "name": "Masked Character",
+  "slug": "masked_character",
+  "records": 288
+ },
+ {
+  "name": "Suicidal Character",
+  "slug": "suicidal_character",
+  "records": 288
+ },
+ {
+  "name": "Summoned Into Another World",
+  "slug": "summoned_into_another_world",
+  "records": 288
+ },
+ {
+  "name": "Tsundere Uke",
+  "slug": "tsundere_uke",
+  "records": 288
+ },
+ {
+  "name": "Femdom",
+  "slug": "femdom",
+  "records": 287
+ },
+ {
+  "name": "Mangaka in a Manga",
+  "slug": "mangaka_in_a_manga",
+  "records": 287
+ },
+ {
+  "name": "Non-BL with Two Male Leads",
+  "slug": "non_bl_with_two_male_leads",
+  "records": 287
+ },
+ {
+  "name": "Outer Space",
+  "slug": "outer_space",
+  "records": 287
+ },
+ {
+  "name": "Reincarnated in a Book World",
+  "slug": "reincarnated_in_a_book_world",
+  "records": 287
+ },
+ {
+  "name": "Tentacles",
+  "slug": "tentacles",
+  "records": 287
+ },
+ {
+  "name": "Nurse",
+  "slug": "nurse",
+  "records": 285
+ },
+ {
+  "name": "Poor Female Lead",
+  "slug": "poor_female_lead",
+  "records": 285
+ },
+ {
+  "name": "Tanned Skin",
+  "slug": "tanned_skin",
+  "records": 285
+ },
+ {
+  "name": "Boxing",
+  "slug": "boxing",
+  "records": 284
+ },
+ {
+  "name": "Gang Rape",
+  "slug": "gang_rape",
+  "records": 284
+ },
+ {
+  "name": "Misunderstood Protagonist",
+  "slug": "misunderstood_protagonist",
+  "records": 284
+ },
+ {
+  "name": "Older Female Lead",
+  "slug": "older_female_lead",
+  "records": 284
+ },
+ {
+  "name": "Transmigrated into a Book World",
+  "slug": "transmigrated_into_a_book_world",
+  "records": 284
+ },
+ {
+  "name": "Level System",
+  "slug": "level_system",
+  "records": 283
+ },
+ {
+  "name": "Dysfunctional Family",
+  "slug": "dysfunctional_family",
+  "records": 282
+ },
+ {
+  "name": "Motorcycles",
+  "slug": "motorcycles",
+  "records": 282
+ },
+ {
+  "name": "Outcasts",
+  "slug": "outcasts",
+  "records": 282
+ },
+ {
+  "name": "Rape as a Start of Relationship",
+  "slug": "rape_as_a_start_of_relationship",
+  "records": 281
+ },
+ {
+  "name": "Impersonation",
+  "slug": "impersonation",
+  "records": 280
+ },
+ {
+  "name": "Naive Male Lead",
+  "slug": "naive_male_lead",
+  "records": 280
+ },
+ {
+  "name": "Otome Game",
+  "slug": "otome_game",
+  "records": 280
+ },
+ {
+  "name": "Cheerful Female Lead",
+  "slug": "cheerful_female_lead",
+  "records": 279
+ },
+ {
+  "name": "Monster Boys",
+  "slug": "monster_boys",
+  "records": 279
+ },
+ {
+  "name": "Two-Faced Character",
+  "slug": "two_faced_character",
+  "records": 279
+ },
+ {
+  "name": "Blushing Character",
+  "slug": "blushing_character",
+  "records": 278
+ },
+ {
+  "name": "Kings",
+  "slug": "kings",
+  "records": 277
+ },
+ {
+  "name": "Possessive Male Lead",
+  "slug": "possessive_male_lead",
+  "records": 277
+ },
+ {
+  "name": "Age Progression",
+  "slug": "age_progression",
+  "records": 276
+ },
+ {
+  "name": "Guilds",
+  "slug": "guilds",
+  "records": 276
+ },
+ {
+  "name": "Disguise",
+  "slug": "disguise",
+  "records": 274
+ },
+ {
+  "name": "Noble Male Lead",
+  "slug": "noble_male_lead",
+  "records": 273
+ },
+ {
+  "name": "Parental Abandonment",
+  "slug": "parental_abandonment",
+  "records": 273
+ },
+ {
+  "name": "Sacrifice",
+  "slug": "sacrifice",
+  "records": 273
+ },
+ {
+  "name": "Urination",
+  "slug": "urination",
+  "records": 273
+ },
+ {
+  "name": "Assertive Female Lead",
+  "slug": "assertive_female_lead",
+  "records": 272
+ },
+ {
+  "name": "Enemies Become Lovers",
+  "slug": "enemies_become_lovers",
+  "records": 272
+ },
+ {
+  "name": "Half-Siblings",
+  "slug": "half_siblings",
+  "records": 271
+ },
+ {
+  "name": "Abusive Parents",
+  "slug": "abusive_parents",
+  "records": 270
+ },
+ {
+  "name": "Desert",
+  "slug": "desert",
+  "records": 270
+ },
+ {
+  "name": "Scientist",
+  "slug": "scientist",
+  "records": 270
+ },
+ {
+  "name": "God-Human Relationship",
+  "slug": "god_human_relationship",
+  "records": 269
+ },
+ {
+  "name": "Memoir",
+  "slug": "memoir",
+  "records": 269
+ },
+ {
+  "name": "Capable Female Lead",
+  "slug": "capable_female_lead",
+  "records": 268
+ },
+ {
+  "name": "Girls Love Subtext",
+  "slug": "girls_love_subtext",
+  "records": 268
+ },
+ {
+  "name": "Heir",
+  "slug": "heir",
+  "records": 268
+ },
+ {
+  "name": "Workplace Intercourse",
+  "slug": "workplace_intercourse",
+  "records": 268
+ },
+ {
+  "name": "Beastman",
+  "slug": "beastman",
+  "records": 267
+ },
+ {
+  "name": "Boys Love Subtext",
+  "slug": "boys_love_subtext",
+  "records": 267
+ },
+ {
+  "name": "Father and Daughter",
+  "slug": "father_and_daughter",
+  "records": 267
+ },
+ {
+  "name": "Reencounter",
+  "slug": "reencounter",
+  "records": 267
+ },
+ {
+  "name": "Tutor",
+  "slug": "tutor",
+  "records": 267
+ },
+ {
+  "name": "Clone",
+  "slug": "clone",
+  "records": 266
+ },
+ {
+  "name": "Tournaments",
+  "slug": "tournaments",
+  "records": 266
+ },
+ {
+  "name": "Contemporary Fantasy",
+  "slug": "contemporary_fantasy",
+  "records": 265
+ },
+ {
+  "name": "Flat Chest",
+  "slug": "flat_chest",
+  "records": 265
+ },
+ {
+  "name": "Gay Seme",
+  "slug": "gay_seme",
+  "records": 265
+ },
+ {
+  "name": "Poor Protagonist",
+  "slug": "poor_protagonist",
+  "records": 265
+ },
+ {
+  "name": "Sexual Coercion",
+  "slug": "sexual_coercion",
+  "records": 265
+ },
+ {
+  "name": "Ex-Lovers",
+  "slug": "ex_lovers",
+  "records": 264
+ },
+ {
+  "name": "Older Sister",
+  "slug": "older_sister",
+  "records": 264
+ },
+ {
+  "name": "Promiscuous Character",
+  "slug": "promiscuous_character",
+  "records": 264
+ },
+ {
+  "name": "Teasing Character",
+  "slug": "teasing_character",
+  "records": 264
+ },
+ {
+  "name": "Crush",
+  "slug": "crush",
+  "records": 263
+ },
+ {
+  "name": "High Stakes Game",
+  "slug": "high_stakes_game",
+  "records": 263
+ },
+ {
+  "name": "Hunted Protagonist",
+  "slug": "hunted_protagonist",
+  "records": 263
+ },
+ {
+  "name": "Uke Falls in Love First",
+  "slug": "uke_falls_in_love_first",
+  "records": 263
+ },
+ {
+  "name": "Blue-Eyed Female Lead",
+  "slug": "blue_eyed_female_lead",
+  "records": 262
+ },
+ {
+  "name": "Archery",
+  "slug": "archery",
+  "records": 261
+ },
+ {
+  "name": "Muscular Uke",
+  "slug": "muscular_uke",
+  "records": 261
+ },
+ {
+  "name": "Trains",
+  "slug": "trains",
+  "records": 260
+ },
+ {
+  "name": "Alternating POV",
+  "slug": "alternating_pov",
+  "records": 259
+ },
+ {
+  "name": "Denpa",
+  "slug": "denpa",
+  "records": 259
+ },
+ {
+  "name": "Divorce",
+  "slug": "divorce",
+  "records": 259
+ },
+ {
+  "name": "Prison",
+  "slug": "prison",
+  "records": 259
+ },
+ {
+  "name": "Scenario Deviation",
+  "slug": "scenario_deviation",
+  "records": 259
+ },
+ {
+  "name": "Forest",
+  "slug": "forest",
+  "records": 258
+ },
+ {
+  "name": "Mutual Unrequited Love",
+  "slug": "mutual_unrequited_love",
+  "records": 258
+ },
+ {
+  "name": "Prodigy",
+  "slug": "prodigy",
+  "records": 258
+ },
+ {
+  "name": "Rival",
+  "slug": "rival",
+  "records": 258
+ },
+ {
+  "name": "Baihe",
+  "slug": "baihe",
+  "records": 257
+ },
+ {
+  "name": "Childhood Friends to Lovers",
+  "slug": "childhood_friends_to_lovers",
+  "records": 257
+ },
+ {
+  "name": "Domestic Abuse",
+  "slug": "domestic_abuse",
+  "records": 257
+ },
+ {
+  "name": "Framed",
+  "slug": "framed",
+  "records": 257
+ },
+ {
+  "name": "Kingdom",
+  "slug": "kingdom",
+  "records": 257
+ },
+ {
+  "name": "Pretend Lovers",
+  "slug": "pretend_lovers",
+  "records": 256
+ },
+ {
+  "name": "Long-Haired Female Lead",
+  "slug": "long_haired_female_lead",
+  "records": 255
+ },
+ {
+  "name": "Wolves",
+  "slug": "wolves",
+  "records": 255
+ },
+ {
+  "name": "Servant",
+  "slug": "servant",
+  "records": 254
+ },
+ {
+  "name": "Shape-Shifter",
+  "slug": "shape_shifter",
+  "records": 254
+ },
+ {
+  "name": "Confinement",
+  "slug": "confinement",
+  "records": 253
+ },
+ {
+  "name": "Dense Male Lead",
+  "slug": "dense_male_lead",
+  "records": 253
+ },
+ {
+  "name": "France",
+  "slug": "france",
+  "records": 253
+ },
+ {
+  "name": "Alternate Reality",
+  "slug": "alternate_reality",
+  "records": 252
+ },
+ {
+  "name": "Editor",
+  "slug": "editor",
+  "records": 252
+ },
+ {
+  "name": "Tomboyish Female Lead",
+  "slug": "tomboyish_female_lead",
+  "records": 252
+ },
+ {
+  "name": "Abused Male Lead",
+  "slug": "abused_male_lead",
+  "records": 251
+ },
+ {
+  "name": "Friends Grow Distant",
+  "slug": "friends_grow_distant",
+  "records": 251
+ },
+ {
+  "name": "Wanko Seme",
+  "slug": "wanko_seme",
+  "records": 251
+ },
+ {
+  "name": "Masochist",
+  "slug": "masochist",
+  "records": 250
+ },
+ {
+  "name": "Transgender Character",
+  "slug": "transgender_character",
+  "records": 250
+ },
+ {
+  "name": "Odd Situations",
+  "slug": "odd_situations",
+  "records": 249
+ },
+ {
+  "name": "Handsome Uke",
+  "slug": "handsome_uke",
+  "records": 248
+ },
+ {
+  "name": "Hard-Working Female Lead",
+  "slug": "hard_working_female_lead",
+  "records": 248
+ },
+ {
+  "name": "Inheritance",
+  "slug": "inheritance",
+  "records": 247
+ },
+ {
+  "name": "Swimming",
+  "slug": "swimming",
+  "records": 247
+ },
+ {
+  "name": "Affectionate Lover",
+  "slug": "affectionate_lover",
+  "records": 246
+ },
+ {
+  "name": "Based on a Movie",
+  "slug": "based_on_a_movie",
+  "records": 246
+ },
+ {
+  "name": "Mansion",
+  "slug": "mansion",
+  "records": 246
+ },
+ {
+  "name": "Political",
+  "slug": "political",
+  "records": 246
+ },
+ {
+  "name": "Prince Male Lead",
+  "slug": "prince_male_lead",
+  "records": 246
+ },
+ {
+  "name": "Long-Haired Seme",
+  "slug": "long_haired_seme",
+  "records": 245
+ },
+ {
+  "name": "Manipulative Male Lead",
+  "slug": "manipulative_male_lead",
+  "records": 244
+ },
+ {
+  "name": "Red-Haired Female Lead",
+  "slug": "red_haired_female_lead",
+  "records": 244
+ },
+ {
+  "name": "Abusive Father",
+  "slug": "abusive_father",
+  "records": 243
+ },
+ {
+  "name": "Protective Male Lead",
+  "slug": "protective_male_lead",
+  "records": 243
+ },
+ {
+  "name": "Yandere Male Lead",
+  "slug": "yandere_male_lead",
+  "records": 243
+ },
+ {
+  "name": "Blunt Male Lead",
+  "slug": "blunt_male_lead",
+  "records": 242
+ },
+ {
+  "name": "Hotel/Inn",
+  "slug": "hotel_inn",
+  "records": 242
+ },
+ {
+  "name": "Kaiju",
+  "slug": "kaiju",
+  "records": 242
+ },
+ {
+  "name": "Novelist",
+  "slug": "novelist",
+  "records": 242
+ },
+ {
+  "name": "Singer",
+  "slug": "singer",
+  "records": 242
+ },
+ {
+  "name": "Gender Transformation",
+  "slug": "gender_transformation",
+  "records": 241
+ },
+ {
+  "name": "Obsessive Character",
+  "slug": "obsessive_character",
+  "records": 241
+ },
+ {
+  "name": "Overpowered Male Lead",
+  "slug": "overpowered_male_lead",
+  "records": 241
+ },
+ {
+  "name": "Star-Crossed Lovers",
+  "slug": "star_crossed_lovers",
+  "records": 241
+ },
+ {
+  "name": "Violent Character",
+  "slug": "violent_character",
+  "records": 241
+ },
+ {
+  "name": "Christmas",
+  "slug": "christmas",
+  "records": 240
+ },
+ {
+  "name": "Innocent Male Lead",
+  "slug": "innocent_male_lead",
+  "records": 239
+ },
+ {
+  "name": "Lack of Communication",
+  "slug": "lack_of_communication",
+  "records": 239
+ },
+ {
+  "name": "White/Silver-Haired Female Lead",
+  "slug": "white_silver_haired_female_lead",
+  "records": 239
+ },
+ {
+  "name": "Cars",
+  "slug": "cars",
+  "records": 238
+ },
+ {
+  "name": "Money",
+  "slug": "money",
+  "records": 238
+ },
+ {
+  "name": "Naive Uke",
+  "slug": "naive_uke",
+  "records": 238
+ },
+ {
+  "name": "Sex Slave",
+  "slug": "sex_slave",
+  "records": 238
+ },
+ {
+  "name": "Ship",
+  "slug": "ship",
+  "records": 238
+ },
+ {
+  "name": "Big Penis",
+  "slug": "big_penis",
+  "records": 237
+ },
+ {
+  "name": "Bisexual Seme",
+  "slug": "bisexual_seme",
+  "records": 237
+ },
+ {
+  "name": "Adultery",
+  "slug": "adultery",
+  "records": 236
+ },
+ {
+  "name": "Ancient Korea",
+  "slug": "ancient_korea",
+  "records": 236
+ },
+ {
+  "name": "Blue-Eyed Male Lead",
+  "slug": "blue_eyed_male_lead",
+  "records": 236
+ },
+ {
+  "name": "Bully",
+  "slug": "bully",
+  "records": 236
+ },
+ {
+  "name": "Japanese Society",
+  "slug": "japanese_society",
+  "records": 236
+ },
+ {
+  "name": "Older Male Lead",
+  "slug": "older_male_lead",
+  "records": 236
+ },
+ {
+  "name": "Uncertainty",
+  "slug": "uncertainty",
+  "records": 236
+ },
+ {
+  "name": "Cruelty",
+  "slug": "cruelty",
+  "records": 235
+ },
+ {
+  "name": "Love Interests Who Don't Get Along",
+  "slug": "love_interests_who_don_t_get_along",
+  "records": 235
+ },
+ {
+  "name": "Promises",
+  "slug": "promises",
+  "records": 235
+ },
+ {
+  "name": "Social Commentary",
+  "slug": "social_commentary",
+  "records": 235
+ },
+ {
+  "name": "Stepbrother",
+  "slug": "stepbrother",
+  "records": 235
+ },
+ {
+  "name": "Twisted Character",
+  "slug": "twisted_character",
+  "records": 234
+ },
+ {
+  "name": "Language Barrier",
+  "slug": "language_barrier",
+  "records": 233
+ },
+ {
+  "name": "Chef",
+  "slug": "chef",
+  "records": 232
+ },
+ {
+  "name": "Crossover",
+  "slug": "crossover",
+  "records": 232
+ },
+ {
+  "name": "Life-Changing Events",
+  "slug": "life_changing_events",
+  "records": 232
+ },
+ {
+  "name": "Poison",
+  "slug": "poison",
+  "records": 232
+ },
+ {
+  "name": "Sudden Appearance",
+  "slug": "sudden_appearance",
+  "records": 232
+ },
+ {
+  "name": "Fox Spirit/Demon",
+  "slug": "fox_spirit_demon",
+  "records": 231
+ },
+ {
+  "name": "Large Cast",
+  "slug": "large_cast",
+  "records": 231
+ },
+ {
+  "name": "Mysterious Powers",
+  "slug": "mysterious_powers",
+  "records": 231
+ },
+ {
+  "name": "Rejection",
+  "slug": "rejection",
+  "records": 231
+ },
+ {
+  "name": "Social Media",
+  "slug": "social_media",
+  "records": 231
+ },
+ {
+  "name": "Stepsibling Love",
+  "slug": "stepsibling_love",
+  "records": 231
+ },
+ {
+  "name": "Experiments",
+  "slug": "experiments",
+  "records": 230
+ },
+ {
+  "name": "Immortality",
+  "slug": "immortality",
+  "records": 230
+ },
+ {
+  "name": "Mahjong",
+  "slug": "mahjong",
+  "records": 230
+ },
+ {
+  "name": "Widow/Widower",
+  "slug": "widow_widower",
+  "records": 230
+ },
+ {
+  "name": "Fantasy Creature",
+  "slug": "fantasy_creature",
+  "records": 229
+ },
+ {
+  "name": "Magic Powers",
+  "slug": "magic_powers",
+  "records": 229
+ },
+ {
+  "name": "Male to Female",
+  "slug": "male_to_female",
+  "records": 229
+ },
+ {
+  "name": "Managers",
+  "slug": "managers",
+  "records": 229
+ },
+ {
+  "name": "Space Opera",
+  "slug": "space_opera",
+  "records": 229
+ },
+ {
+  "name": "Adapted to Game",
+  "slug": "adapted_to_game",
+  "records": 228
+ },
+ {
+  "name": "Assassination Attempt",
+  "slug": "assassination_attempt",
+  "records": 228
+ },
+ {
+  "name": "Black-Haired Female Lead",
+  "slug": "black_haired_female_lead",
+  "records": 228
+ },
+ {
+  "name": "Dead Mother",
+  "slug": "dead_mother",
+  "records": 228
+ },
+ {
+  "name": "Delusions",
+  "slug": "delusions",
+  "records": 228
+ },
+ {
+  "name": "Money Problems",
+  "slug": "money_problems",
+  "records": 228
+ },
+ {
+  "name": "Nun",
+  "slug": "nun",
+  "records": 228
+ },
+ {
+  "name": "Affairs",
+  "slug": "affairs",
+  "records": 226
+ },
+ {
+  "name": "Emotionally Weak Female Lead",
+  "slug": "emotionally_weak_female_lead",
+  "records": 226
+ },
+ {
+  "name": "Heartbreak",
+  "slug": "heartbreak",
+  "records": 226
+ },
+ {
+  "name": "Scary Male Lead",
+  "slug": "scary_male_lead",
+  "records": 226
+ },
+ {
+  "name": "Lawyers",
+  "slug": "lawyers",
+  "records": 225
+ },
+ {
+  "name": "Middle School Student",
+  "slug": "middle_school_student",
+  "records": 225
+ },
+ {
+  "name": "Mother and Daughter",
+  "slug": "mother_and_daughter",
+  "records": 225
+ },
+ {
+  "name": "Past Life",
+  "slug": "past_life",
+  "records": 225
+ },
+ {
+  "name": "Lesbian",
+  "slug": "lesbian",
+  "records": 224
+ },
+ {
+  "name": "Low Self-Esteem",
+  "slug": "low_self_esteem",
+  "records": 224
+ },
+ {
+  "name": "Muscular Seme",
+  "slug": "muscular_seme",
+  "records": 224
+ },
+ {
+  "name": "Nakadashi",
+  "slug": "nakadashi",
+  "records": 224
+ },
+ {
+  "name": "Lolicon",
+  "slug": "lolicon",
+  "records": 223
+ },
+ {
+  "name": "Long-Haired Uke",
+  "slug": "long_haired_uke",
+  "records": 223
+ },
+ {
+  "name": "Non-Linear Storytelling",
+  "slug": "non_linear_storytelling",
+  "records": 223
+ },
+ {
+  "name": "Espionage",
+  "slug": "espionage",
+  "records": 222
+ },
+ {
+  "name": "Manga Industry",
+  "slug": "manga_industry",
+  "records": 222
+ },
+ {
+  "name": "Playboy Becomes Monogamous",
+  "slug": "playboy_becomes_monogamous",
+  "records": 222
+ },
+ {
+  "name": "Village",
+  "slug": "village",
+  "records": 222
+ },
+ {
+  "name": "Divorced Parent",
+  "slug": "divorced_parent",
+  "records": 221
+ },
+ {
+  "name": "MMORPG",
+  "slug": "mmorpg",
+  "records": 221
+ },
+ {
+  "name": "Bullied Male Lead",
+  "slug": "bullied_male_lead",
+  "records": 220
+ },
+ {
+  "name": "Game",
+  "slug": "game",
+  "records": 220
+ },
+ {
+  "name": "Gamer",
+  "slug": "gamer",
+  "records": 220
+ },
+ {
+  "name": "Obsessive Seme",
+  "slug": "obsessive_seme",
+  "records": 220
+ },
+ {
+  "name": "Pedophilia",
+  "slug": "pedophilia",
+  "records": 220
+ },
+ {
+  "name": "Reverse Isekai",
+  "slug": "reverse_isekai",
+  "records": 220
+ },
+ {
+  "name": "Black-Haired Seme",
+  "slug": "black_haired_seme",
+  "records": 219
+ },
+ {
+  "name": "Determined Female Lead",
+  "slug": "determined_female_lead",
+  "records": 219
+ },
+ {
+  "name": "Cosmic Horror",
+  "slug": "cosmic_horror",
+  "records": 218
+ },
+ {
+  "name": "Fights",
+  "slug": "fights",
+  "records": 218
+ },
+ {
+  "name": "Monks",
+  "slug": "monks",
+  "records": 218
+ },
+ {
+  "name": "Bromance",
+  "slug": "bromance",
+  "records": 217
+ },
+ {
+  "name": "Concubine",
+  "slug": "concubine",
+  "records": 217
+ },
+ {
+  "name": "Godly Powers",
+  "slug": "godly_powers",
+  "records": 217
+ },
+ {
+  "name": "Manipulative Character",
+  "slug": "manipulative_character",
+  "records": 217
+ },
+ {
+  "name": "Master-Disciple Relationship",
+  "slug": "master_disciple_relationship",
+  "records": 217
+ },
+ {
+  "name": "Plants",
+  "slug": "plants",
+  "records": 217
+ },
+ {
+  "name": "Family Business",
+  "slug": "family_business",
+  "records": 216
+ },
+ {
+  "name": "Painting",
+  "slug": "painting",
+  "records": 216
+ },
+ {
+  "name": "Poor Male Lead",
+  "slug": "poor_male_lead",
+  "records": 216
+ },
+ {
+  "name": "Virgin Female Lead",
+  "slug": "virgin_female_lead",
+  "records": 216
+ },
+ {
+  "name": "Ambiguous Relationship",
+  "slug": "ambiguous_relationship",
+  "records": 215
+ },
+ {
+  "name": "Comedic Violence",
+  "slug": "comedic_violence",
+  "records": 215
+ },
+ {
+  "name": "Dark Fantasy",
+  "slug": "dark_fantasy",
+  "records": 215
+ },
+ {
+  "name": "Ex-Girlfriend",
+  "slug": "ex_girlfriend",
+  "records": 215
+ },
+ {
+  "name": "Male Prostitution",
+  "slug": "male_prostitution",
+  "records": 215
+ },
+ {
+  "name": "Rich Protagonist",
+  "slug": "rich_protagonist",
+  "records": 214
+ },
+ {
+  "name": "Sheikh",
+  "slug": "sheikh",
+  "records": 214
+ },
+ {
+  "name": "Telepathy",
+  "slug": "telepathy",
+  "records": 214
+ },
+ {
+  "name": "Brown-Haired Female Lead",
+  "slug": "brown_haired_female_lead",
+  "records": 213
+ },
+ {
+  "name": "Economics",
+  "slug": "economics",
+  "records": 213
+ },
+ {
+  "name": "Negligent Parent",
+  "slug": "negligent_parent",
+  "records": 213
+ },
+ {
+  "name": "Real Life Facts",
+  "slug": "real_life_facts",
+  "records": 213
+ },
+ {
+  "name": "Apartment Life",
+  "slug": "apartment_life",
+  "records": 212
+ },
+ {
+  "name": "Awkward Male Lead",
+  "slug": "awkward_male_lead",
+  "records": 212
+ },
+ {
+  "name": "Doting Family Member",
+  "slug": "doting_family_member",
+  "records": 212
+ },
+ {
+  "name": "Half-Human",
+  "slug": "half_human",
+  "records": 212
+ },
+ {
+  "name": "Student-Adult Relationship",
+  "slug": "student_adult_relationship",
+  "records": 212
+ },
+ {
+  "name": "Tragic Protagonist",
+  "slug": "tragic_protagonist",
+  "records": 212
+ },
+ {
+  "name": "Young Protagonist",
+  "slug": "young_protagonist",
+  "records": 212
+ },
+ {
+  "name": "Prophecy",
+  "slug": "prophecy",
+  "records": 211
+ },
+ {
+  "name": "Seme-Like Uke",
+  "slug": "seme_like_uke",
+  "records": 210
+ },
+ {
+  "name": "Black-Haired Uke",
+  "slug": "black_haired_uke",
+  "records": 209
+ },
+ {
+  "name": "Gangster",
+  "slug": "gangster",
+  "records": 209
+ },
+ {
+  "name": "Persistent Male Lead",
+  "slug": "persistent_male_lead",
+  "records": 209
+ },
+ {
+  "name": "Strong Uke",
+  "slug": "strong_uke",
+  "records": 209
+ },
+ {
+  "name": "Strategic Minds",
+  "slug": "strategic_minds",
+  "records": 208
+ },
+ {
+  "name": "Terrorism",
+  "slug": "terrorism",
+  "records": 208
+ },
+ {
+  "name": "Domestic Violence",
+  "slug": "domestic_violence",
+  "records": 207
+ },
+ {
+  "name": "Pilots",
+  "slug": "pilots",
+  "records": 207
+ },
+ {
+  "name": "Soccer",
+  "slug": "soccer",
+  "records": 207
+ },
+ {
+  "name": "Cute Uke",
+  "slug": "cute_uke",
+  "records": 206
+ },
+ {
+  "name": "Fujoshi",
+  "slug": "fujoshi",
+  "records": 206
+ },
+ {
+  "name": "Groping",
+  "slug": "groping",
+  "records": 206
+ },
+ {
+  "name": "Reunited Friends",
+  "slug": "reunited_friends",
+  "records": 206
+ },
+ {
+  "name": "Strangers to Lovers",
+  "slug": "strangers_to_lovers",
+  "records": 206
+ },
+ {
+  "name": "Capable Male Lead",
+  "slug": "capable_male_lead",
+  "records": 205
+ },
+ {
+  "name": "Debt-Motivated Protagonist",
+  "slug": "debt_motivated_protagonist",
+  "records": 205
+ },
+ {
+  "name": "Italy",
+  "slug": "italy",
+  "records": 205
+ },
+ {
+  "name": "Missing Person",
+  "slug": "missing_person",
+  "records": 205
+ },
+ {
+  "name": "Near-Death Experience",
+  "slug": "near_death_experience",
+  "records": 205
+ },
+ {
+  "name": "Popular Seme",
+  "slug": "popular_seme",
+  "records": 205
+ },
+ {
+  "name": "Reincarnated as the Villainess",
+  "slug": "reincarnated_as_the_villainess",
+  "records": 205
+ },
+ {
+  "name": "Shop Owner",
+  "slug": "shop_owner",
+  "records": 205
+ },
+ {
+  "name": "Wet Dreams",
+  "slug": "wet_dreams",
+  "records": 205
+ },
+ {
+  "name": "Complicated Family",
+  "slug": "complicated_family",
+  "records": 204
+ },
+ {
+  "name": "Elementary School",
+  "slug": "elementary_school",
+  "records": 204
+ },
+ {
+  "name": "Independent Female Lead",
+  "slug": "independent_female_lead",
+  "records": 204
+ },
+ {
+  "name": "Ruthless Male Lead",
+  "slug": "ruthless_male_lead",
+  "records": 204
+ },
+ {
+  "name": "Combat Sports",
+  "slug": "combat_sports",
+  "records": 203
+ },
+ {
+  "name": "French Kissing",
+  "slug": "french_kissing",
+  "records": 203
+ },
+ {
+  "name": "Manipulative Female Lead",
+  "slug": "manipulative_female_lead",
+  "records": 203
+ },
+ {
+  "name": "Partners",
+  "slug": "partners",
+  "records": 203
+ },
+ {
+  "name": "Photographers",
+  "slug": "photographers",
+  "records": 203
+ },
+ {
+  "name": "Virgin Male Lead",
+  "slug": "virgin_male_lead",
+  "records": 203
+ },
+ {
+  "name": "Emotionally Confused",
+  "slug": "emotionally_confused",
+  "records": 202
+ },
+ {
+  "name": "Male Pregnancy",
+  "slug": "male_pregnancy",
+  "records": 202
+ },
+ {
+  "name": "Father and Son",
+  "slug": "father_and_son",
+  "records": 201
+ },
+ {
+  "name": "Rabbits",
+  "slug": "rabbits",
+  "records": 201
+ },
+ {
+  "name": "Sexism",
+  "slug": "sexism",
+  "records": 201
+ },
+ {
+  "name": "Sickly Character",
+  "slug": "sickly_character",
+  "records": 201
+ },
+ {
+  "name": "Straightforward Male Lead",
+  "slug": "straightforward_male_lead",
+  "records": 201
+ },
+ {
+  "name": "Villain Protagonist",
+  "slug": "villain_protagonist",
+  "records": 201
+ },
+ {
+  "name": "Sadness",
+  "slug": "sadness",
+  "records": 200
+ },
+ {
+  "name": "Dead Love Interest",
+  "slug": "dead_love_interest",
+  "records": 199
+ },
+ {
+  "name": "Dense Female Lead",
+  "slug": "dense_female_lead",
+  "records": 199
+ },
+ {
+  "name": "Human Becomes Nonhuman",
+  "slug": "human_becomes_nonhuman",
+  "records": 199
+ },
+ {
+  "name": "Ocean",
+  "slug": "ocean",
+  "records": 199
+ },
+ {
+  "name": "Poverty",
+  "slug": "poverty",
+  "records": 199
+ },
+ {
+  "name": "Reflections on Human Existence",
+  "slug": "reflections_on_human_existence",
+  "records": 199
+ },
+ {
+  "name": "Romantic Comedy",
+  "slug": "romantic_comedy",
+  "records": 199
+ },
+ {
+  "name": "Crazy Character",
+  "slug": "crazy_character",
+  "records": 198
+ },
+ {
+  "name": "Middle Eastern",
+  "slug": "middle_eastern",
+  "records": 198
+ },
+ {
+  "name": "Coming Out",
+  "slug": "coming_out",
+  "records": 197
+ },
+ {
+  "name": "Crybaby Uke",
+  "slug": "crybaby_uke",
+  "records": 197
+ },
+ {
+  "name": "Cyberpunk",
+  "slug": "cyberpunk",
+  "records": 197
+ },
+ {
+  "name": "Embarrassing Situations",
+  "slug": "embarrassing_situations",
+  "records": 197
+ },
+ {
+  "name": "Humiliation",
+  "slug": "humiliation",
+  "records": 197
+ },
+ {
+  "name": "Older Lover",
+  "slug": "older_lover",
+  "records": 197
+ },
+ {
+  "name": "Parallel World",
+  "slug": "parallel_world",
+  "records": 197
+ },
+ {
+  "name": "Red-Eyed Male Lead",
+  "slug": "red_eyed_male_lead",
+  "records": 197
+ },
+ {
+  "name": "Awkward Female Lead",
+  "slug": "awkward_female_lead",
+  "records": 196
+ },
+ {
+  "name": "Intrigue",
+  "slug": "intrigue",
+  "records": 196
+ },
+ {
+  "name": "Racing",
+  "slug": "racing",
+  "records": 196
+ },
+ {
+  "name": "Sudden Confession",
+  "slug": "sudden_confession",
+  "records": 196
+ },
+ {
+  "name": "Warrior",
+  "slug": "warrior",
+  "records": 196
+ },
+ {
+  "name": "Androgynous Protagonist",
+  "slug": "androgynous_protagonist",
+  "records": 195
+ },
+ {
+  "name": "Duke Male Lead",
+  "slug": "duke_male_lead",
+  "records": 195
+ },
+ {
+  "name": "Dumb Male Lead",
+  "slug": "dumb_male_lead",
+  "records": 195
+ },
+ {
+  "name": "Engaged Couple",
+  "slug": "engaged_couple",
+  "records": 195
+ },
+ {
+  "name": "Immortal Character",
+  "slug": "immortal_character",
+  "records": 195
+ },
+ {
+  "name": "Tokyo",
+  "slug": "tokyo",
+  "records": 195
+ },
+ {
+  "name": "In Love with Family Member",
+  "slug": "in_love_with_family_member",
+  "records": 194
+ },
+ {
+  "name": "Insects",
+  "slug": "insects",
+  "records": 194
+ },
+ {
+  "name": "Plain-Looking Male Lead",
+  "slug": "plain_looking_male_lead",
+  "records": 194
+ },
+ {
+  "name": "Real Robot",
+  "slug": "real_robot",
+  "records": 194
+ },
+ {
+  "name": "Androgynous Character",
+  "slug": "androgynous_character",
+  "records": 193
+ },
+ {
+  "name": "Cool Female Lead",
+  "slug": "cool_female_lead",
+  "records": 193
+ },
+ {
+  "name": "Eccentric Male Lead",
+  "slug": "eccentric_male_lead",
+  "records": 193
+ },
+ {
+  "name": "Eyepatch",
+  "slug": "eyepatch",
+  "records": 193
+ },
+ {
+  "name": "Promiscuous Female Lead",
+  "slug": "promiscuous_female_lead",
+  "records": 193
+ },
+ {
+  "name": "Psychic Powers",
+  "slug": "psychic_powers",
+  "records": 193
+ },
+ {
+  "name": "Single Father",
+  "slug": "single_father",
+  "records": 193
+ },
+ {
+  "name": "Female Disguised as Male",
+  "slug": "female_disguised_as_male",
+  "records": 192
+ },
+ {
+  "name": "Mysterious Male Lead",
+  "slug": "mysterious_male_lead",
+  "records": 192
+ },
+ {
+  "name": "Taisho Era",
+  "slug": "taisho_era",
+  "records": 192
+ },
+ {
+  "name": "Brother-Sister Relationship",
+  "slug": "brother_sister_relationship",
+  "records": 191
+ },
+ {
+  "name": "Doting Lover",
+  "slug": "doting_lover",
+  "records": 191
+ },
+ {
+  "name": "Pirates",
+  "slug": "pirates",
+  "records": 191
+ },
+ {
+  "name": "Bullied Female Lead",
+  "slug": "bullied_female_lead",
+  "records": 190
+ },
+ {
+  "name": "Nipple Sucking",
+  "slug": "nipple_sucking",
+  "records": 190
+ },
+ {
+  "name": "Green-Eyed Female Lead",
+  "slug": "green_eyed_female_lead",
+  "records": 189
+ },
+ {
+  "name": "Hot-Blooded Male Lead",
+  "slug": "hot_blooded_male_lead",
+  "records": 189
+ },
+ {
+  "name": "Long-Haired Protagonist",
+  "slug": "long_haired_protagonist",
+  "records": 189
+ },
+ {
+  "name": "Reincarnated in a Game World",
+  "slug": "reincarnated_in_a_game_world",
+  "records": 189
+ },
+ {
+  "name": "Rivals Become Lovers",
+  "slug": "rivals_become_lovers",
+  "records": 189
+ },
+ {
+  "name": "Absurdity",
+  "slug": "absurdity",
+  "records": 188
+ },
+ {
+  "name": "Class Struggle",
+  "slug": "class_struggle",
+  "records": 188
+ },
+ {
+  "name": "Difficult Childhood",
+  "slug": "difficult_childhood",
+  "records": 188
+ },
+ {
+  "name": "False Incest",
+  "slug": "false_incest",
+  "records": 188
+ },
+ {
+  "name": "Family Friendly",
+  "slug": "family_friendly",
+  "records": 188
+ },
+ {
+  "name": "Half-Japanese",
+  "slug": "half_japanese",
+  "records": 188
+ },
+ {
+  "name": "Sexual Curiosity",
+  "slug": "sexual_curiosity",
+  "records": 188
+ },
+ {
+  "name": "Mercenary",
+  "slug": "mercenary",
+  "records": 187
+ },
+ {
+  "name": "Mother and Son",
+  "slug": "mother_and_son",
+  "records": 187
+ },
+ {
+  "name": "Pandemic",
+  "slug": "pandemic",
+  "records": 187
+ },
+ {
+  "name": "Shinigami/Grim Reaper",
+  "slug": "shinigami_grim_reaper",
+  "records": 187
+ },
+ {
+  "name": "Shrine Maiden",
+  "slug": "shrine_maiden",
+  "records": 187
+ },
+ {
+  "name": "Dumb Couple",
+  "slug": "dumb_couple",
+  "records": 186
+ },
+ {
+  "name": "Extended Flashbacks",
+  "slug": "extended_flashbacks",
+  "records": 186
+ },
+ {
+  "name": "Healing Power",
+  "slug": "healing_power",
+  "records": 186
+ },
+ {
+  "name": "Devil",
+  "slug": "devil",
+  "records": 185
+ },
+ {
+  "name": "Frottage",
+  "slug": "frottage",
+  "records": 185
+ },
+ {
+  "name": "Clan",
+  "slug": "clan",
+  "records": 184
+ },
+ {
+  "name": "Cunning Male Lead",
+  "slug": "cunning_male_lead",
+  "records": 184
+ },
+ {
+  "name": "Fake Couple Becomes Genuine",
+  "slug": "fake_couple_becomes_genuine",
+  "records": 184
+ },
+ {
+  "name": "Ruthless Character",
+  "slug": "ruthless_character",
+  "records": 184
+ },
+ {
+  "name": "Secretary",
+  "slug": "secretary",
+  "records": 184
+ },
+ {
+  "name": "Strong-Willed Male Lead",
+  "slug": "strong_willed_male_lead",
+  "records": 184
+ },
+ {
+  "name": "Adult Character",
+  "slug": "adult_character",
+  "records": 183
+ },
+ {
+  "name": "Forced into a Relationship",
+  "slug": "forced_into_a_relationship",
+  "records": 183
+ },
+ {
+  "name": "Makeup",
+  "slug": "makeup",
+  "records": 183
+ },
+ {
+  "name": "Master-Pet Relationship",
+  "slug": "master_pet_relationship",
+  "records": 183
+ },
+ {
+  "name": "Mysterious Location",
+  "slug": "mysterious_location",
+  "records": 183
+ },
+ {
+  "name": "Satire",
+  "slug": "satire",
+  "records": 183
+ },
+ {
+  "name": "Stoic Male Lead",
+  "slug": "stoic_male_lead",
+  "records": 183
+ },
+ {
+  "name": "Stubborn Protagonist",
+  "slug": "stubborn_protagonist",
+  "records": 183
+ },
+ {
+  "name": "Character Death",
+  "slug": "character_death",
+  "records": 182
+ },
+ {
+  "name": "Cheat Skills",
+  "slug": "cheat_skills",
+  "records": 182
+ },
+ {
+  "name": "Mistaken Identity",
+  "slug": "mistaken_identity",
+  "records": 182
+ },
+ {
+  "name": "Muscles",
+  "slug": "muscles",
+  "records": 182
+ },
+ {
+  "name": "Xianxia",
+  "slug": "xianxia",
+  "records": 182
+ },
+ {
+  "name": "Alternate History",
+  "slug": "alternate_history",
+  "records": 181
+ },
+ {
+  "name": "Polygamy",
+  "slug": "polygamy",
+  "records": 181
+ },
+ {
+  "name": "Weak Female Lead",
+  "slug": "weak_female_lead",
+  "records": 181
+ },
+ {
+  "name": "Hunter",
+  "slug": "hunter",
+  "records": 180
+ },
+ {
+  "name": "Moving Away",
+  "slug": "moving_away",
+  "records": 180
+ },
+ {
+  "name": "Mysterious Character",
+  "slug": "mysterious_character",
+  "records": 180
+ },
+ {
+  "name": "Contract Marriage",
+  "slug": "contract_marriage",
+  "records": 179
+ },
+ {
+  "name": "Japanese Ambience",
+  "slug": "japanese_ambience",
+  "records": 179
+ },
+ {
+  "name": "Kimono",
+  "slug": "kimono",
+  "records": 179
+ },
+ {
+  "name": "Performing Arts",
+  "slug": "performing_arts",
+  "records": 179
+ },
+ {
+  "name": "Puppy-like Seme",
+  "slug": "puppy_like_seme",
+  "records": 179
+ },
+ {
+  "name": "Black Humor",
+  "slug": "black_humor",
+  "records": 178
+ },
+ {
+  "name": "Boobjob",
+  "slug": "boobjob",
+  "records": 178
+ },
+ {
+  "name": "Dishonest Protagonist",
+  "slug": "dishonest_protagonist",
+  "records": 178
+ },
+ {
+  "name": "Homeless",
+  "slug": "homeless",
+  "records": 178
+ },
+ {
+  "name": "Horny Uke",
+  "slug": "horny_uke",
+  "records": 178
+ },
+ {
+  "name": "World War II",
+  "slug": "world_war_ii",
+  "records": 178
+ },
+ {
+  "name": "Alchemy",
+  "slug": "alchemy",
+  "records": 177
+ },
+ {
+  "name": "Drugged",
+  "slug": "drugged",
+  "records": 177
+ },
+ {
+  "name": "Musical Instruments",
+  "slug": "musical_instruments",
+  "records": 177
+ },
+ {
+  "name": "Agriculture",
+  "slug": "agriculture",
+  "records": 176
+ },
+ {
+  "name": "Battle Royale",
+  "slug": "battle_royale",
+  "records": 176
+ },
+ {
+  "name": "Contractual Relationship",
+  "slug": "contractual_relationship",
+  "records": 176
+ },
+ {
+  "name": "Forced Living Arrangements",
+  "slug": "forced_living_arrangements",
+  "records": 176
+ },
+ {
+  "name": "Jealous Male Lead",
+  "slug": "jealous_male_lead",
+  "records": 176
+ },
+ {
+  "name": "Pink-Haired Female Lead",
+  "slug": "pink_haired_female_lead",
+  "records": 176
+ },
+ {
+  "name": "Books",
+  "slug": "books",
+  "records": 175
+ },
+ {
+  "name": "Eccentric Female Lead",
+  "slug": "eccentric_female_lead",
+  "records": 175
+ },
+ {
+  "name": "Ecology",
+  "slug": "ecology",
+  "records": 175
+ },
+ {
+  "name": "Power Struggle",
+  "slug": "power_struggle",
+  "records": 175
+ },
+ {
+  "name": "Promiscuous Male Lead",
+  "slug": "promiscuous_male_lead",
+  "records": 175
+ },
+ {
+  "name": "Stockholm Syndrome",
+  "slug": "stockholm_syndrome",
+  "records": 175
+ },
+ {
+  "name": "Spy",
+  "slug": "spy",
+  "records": 174
+ },
+ {
+  "name": "Athletics",
+  "slug": "athletics",
+  "records": 173
+ },
+ {
+  "name": "Bullied Protagonist",
+  "slug": "bullied_protagonist",
+  "records": 173
+ },
+ {
+  "name": "Folklore",
+  "slug": "folklore",
+  "records": 173
+ },
+ {
+  "name": "LGBTQ+ Parents",
+  "slug": "lgbtq_parents",
+  "records": 173
+ },
+ {
+  "name": "Play or Die Situation",
+  "slug": "play_or_die_situation",
+  "records": 173
+ },
+ {
+  "name": "Assistant",
+  "slug": "assistant",
+  "records": 172
+ },
+ {
+  "name": "Calm Male Lead",
+  "slug": "calm_male_lead",
+  "records": 172
+ },
+ {
+  "name": "Fanboy",
+  "slug": "fanboy",
+  "records": 172
+ },
+ {
+  "name": "Goblin",
+  "slug": "goblin",
+  "records": 172
+ },
+ {
+  "name": "Helpful Protagonist",
+  "slug": "helpful_protagonist",
+  "records": 172
+ },
+ {
+  "name": "Super Robot",
+  "slug": "super_robot",
+  "records": 172
+ },
+ {
+  "name": "Doggy Style",
+  "slug": "doggy_style",
+  "records": 171
+ },
+ {
+  "name": "Harem Subtext",
+  "slug": "harem_subtext",
+  "records": 171
+ },
+ {
+  "name": "Library",
+  "slug": "library",
+  "records": 171
+ },
+ {
+  "name": "Manipulative Protagonist",
+  "slug": "manipulative_protagonist",
+  "records": 171
+ },
+ {
+  "name": "Prisoner",
+  "slug": "prisoner",
+  "records": 171
+ },
+ {
+  "name": "Uke-Like Seme",
+  "slug": "uke_like_seme",
+  "records": 171
+ },
+ {
+  "name": "Carefree Protagonist",
+  "slug": "carefree_protagonist",
+  "records": 170
+ },
+ {
+  "name": "Gundam",
+  "slug": "gundam",
+  "records": 170
+ },
+ {
+  "name": "Swimsuit",
+  "slug": "swimsuit",
+  "records": 170
+ },
+ {
+  "name": "Unpopular Protagonist",
+  "slug": "unpopular_protagonist",
+  "records": 170
+ },
+ {
+  "name": "Dumb Protagonist",
+  "slug": "dumb_protagonist",
+  "records": 169
+ },
+ {
+  "name": "Femboy",
+  "slug": "femboy",
+  "records": 169
+ },
+ {
+  "name": "Lonely Protagonist",
+  "slug": "lonely_protagonist",
+  "records": 169
+ },
+ {
+  "name": "Manipulative Seme",
+  "slug": "manipulative_seme",
+  "records": 169
+ },
+ {
+  "name": "Volleyball",
+  "slug": "volleyball",
+  "records": 169
+ },
+ {
+  "name": "Based on a TV Series",
+  "slug": "based_on_a_tv_series",
+  "records": 168
+ },
+ {
+  "name": "Captive",
+  "slug": "captive",
+  "records": 167
+ },
+ {
+  "name": "Demon Girl",
+  "slug": "demon_girl",
+  "records": 167
+ },
+ {
+  "name": "Enemies Become Friends",
+  "slug": "enemies_become_friends",
+  "records": 167
+ },
+ {
+  "name": "Unorthodox Male Love Interest",
+  "slug": "unorthodox_male_love_interest",
+  "records": 167
+ },
+ {
+  "name": "Cat Boy",
+  "slug": "cat_boy",
+  "records": 166
+ },
+ {
+  "name": "False Personality",
+  "slug": "false_personality",
+  "records": 166
+ },
+ {
+  "name": "Ruthless Protagonist",
+  "slug": "ruthless_protagonist",
+  "records": 166
+ },
+ {
+  "name": "Actress",
+  "slug": "actress",
+  "records": 165
+ },
+ {
+  "name": "Aphrodisiac",
+  "slug": "aphrodisiac",
+  "records": 165
+ },
+ {
+  "name": "Beast",
+  "slug": "beast",
+  "records": 165
+ },
+ {
+  "name": "Fighters",
+  "slug": "fighters",
+  "records": 165
+ },
+ {
+  "name": "Murim",
+  "slug": "murim",
+  "records": 165
+ },
+ {
+  "name": "Sudden Acquisition of Power",
+  "slug": "sudden_acquisition_of_power",
+  "records": 165
+ },
+ {
+  "name": "Buddhism",
+  "slug": "buddhism",
+  "records": 164
+ },
+ {
+  "name": "Cute Male Lead",
+  "slug": "cute_male_lead",
+  "records": 164
+ },
+ {
+  "name": "Engagement",
+  "slug": "engagement",
+  "records": 164
+ },
+ {
+  "name": "Insecure Character",
+  "slug": "insecure_character",
+  "records": 164
+ },
+ {
+  "name": "Intercrural Intercourse",
+  "slug": "intercrural_intercourse",
+  "records": 164
+ },
+ {
+  "name": "Love Interest Change",
+  "slug": "love_interest_change",
+  "records": 164
+ },
+ {
+  "name": "Mature Child",
+  "slug": "mature_child",
+  "records": 164
+ },
+ {
+  "name": "Misunderstood Character",
+  "slug": "misunderstood_character",
+  "records": 164
+ },
+ {
+  "name": "Mythical Beast",
+  "slug": "mythical_beast",
+  "records": 164
+ },
+ {
+  "name": "Necromancy",
+  "slug": "necromancy",
+  "records": 164
+ },
+ {
+  "name": "Arrogant Protagonist",
+  "slug": "arrogant_protagonist",
+  "records": 163
+ },
+ {
+  "name": "Dolls",
+  "slug": "dolls",
+  "records": 163
+ },
+ {
+  "name": "Fear of Abandonment",
+  "slug": "fear_of_abandonment",
+  "records": 163
+ },
+ {
+  "name": "Hidden Motives",
+  "slug": "hidden_motives",
+  "records": 163
+ },
+ {
+  "name": "Mask",
+  "slug": "mask",
+  "records": 163
+ },
+ {
+  "name": "Scarred Protagonist",
+  "slug": "scarred_protagonist",
+  "records": 163
+ },
+ {
+  "name": "Talented Protagonist",
+  "slug": "talented_protagonist",
+  "records": 163
+ },
+ {
+  "name": "Wrestling",
+  "slug": "wrestling",
+  "records": 163
+ },
+ {
+  "name": "Beautiful Couple",
+  "slug": "beautiful_couple",
+  "records": 162
+ },
+ {
+  "name": "Dumb Character",
+  "slug": "dumb_character",
+  "records": 162
+ },
+ {
+  "name": "Mind Break",
+  "slug": "mind_break",
+  "records": 162
+ },
+ {
+  "name": "Openly Gay Couple",
+  "slug": "openly_gay_couple",
+  "records": 162
+ },
+ {
+  "name": "Princess Female Lead",
+  "slug": "princess_female_lead",
+  "records": 162
+ },
+ {
+  "name": "Board Games",
+  "slug": "board_games",
+  "records": 161
+ },
+ {
+  "name": "Paizuri",
+  "slug": "paizuri",
+  "records": 161
+ },
+ {
+  "name": "Random Plot",
+  "slug": "random_plot",
+  "records": 161
+ },
+ {
+  "name": "Straightforward Female Lead",
+  "slug": "straightforward_female_lead",
+  "records": 161
+ },
+ {
+  "name": "Summer",
+  "slug": "summer",
+  "records": 161
+ },
+ {
+  "name": "Virgin Uke",
+  "slug": "virgin_uke",
+  "records": 161
+ },
+ {
+  "name": "Visual Arts",
+  "slug": "visual_arts",
+  "records": 161
+ },
+ {
+  "name": "Cute Boys Doing Cute Things",
+  "slug": "cute_boys_doing_cute_things",
+  "records": 160
+ },
+ {
+  "name": "Dark Past",
+  "slug": "dark_past",
+  "records": 160
+ },
+ {
+  "name": "Empire",
+  "slug": "empire",
+  "records": 160
+ },
+ {
+  "name": "Feet",
+  "slug": "feet",
+  "records": 160
+ },
+ {
+  "name": "Grandfather",
+  "slug": "grandfather",
+  "records": 160
+ },
+ {
+  "name": "Japanese Culture",
+  "slug": "japanese_culture",
+  "records": 160
+ },
+ {
+  "name": "Professor",
+  "slug": "professor",
+  "records": 160
+ },
+ {
+  "name": "Remarriage",
+  "slug": "remarriage",
+  "records": 160
+ },
+ {
+  "name": "Talking Animal",
+  "slug": "talking_animal",
+  "records": 160
+ },
+ {
+  "name": "Based on a Western Work",
+  "slug": "based_on_a_western_work",
+  "records": 159
+ },
+ {
+  "name": "Cold Female Lead",
+  "slug": "cold_female_lead",
+  "records": 159
+ },
+ {
+  "name": "Cold Protagonist",
+  "slug": "cold_protagonist",
+  "records": 159
+ },
+ {
+  "name": "Naive Protagonist",
+  "slug": "naive_protagonist",
+  "records": 159
+ },
+ {
+  "name": "Cheerful Male Lead",
+  "slug": "cheerful_male_lead",
+  "records": 158
+ },
+ {
+  "name": "Expressionless Protagonist",
+  "slug": "expressionless_protagonist",
+  "records": 158
+ },
+ {
+  "name": "Master-Slave Relationship",
+  "slug": "master_slave_relationship",
+  "records": 158
+ },
+ {
+  "name": "Family Feud",
+  "slug": "family_feud",
+  "records": 157
+ },
+ {
+  "name": "Multiple Love Interests",
+  "slug": "multiple_love_interests",
+  "records": 157
+ },
+ {
+  "name": "Plain-Looking Female Lead",
+  "slug": "plain_looking_female_lead",
+  "records": 157
+ },
+ {
+  "name": "Regressed Female Lead",
+  "slug": "regressed_female_lead",
+  "records": 157
+ },
+ {
+  "name": "Terrorist",
+  "slug": "terrorist",
+  "records": 157
+ },
+ {
+  "name": "Comedic Facial Expressions",
+  "slug": "comedic_facial_expressions",
+  "records": 156
+ },
+ {
+  "name": "Comedic Moments in a Serious Manga",
+  "slug": "comedic_moments_in_a_serious_manga",
+  "records": 156
+ },
+ {
+  "name": "Lost Civilization",
+  "slug": "lost_civilization",
+  "records": 156
+ },
+ {
+  "name": "Post-Traumatic Stress Disorder",
+  "slug": "post_traumatic_stress_disorder",
+  "records": 156
+ },
+ {
+  "name": "Racism",
+  "slug": "racism",
+  "records": 156
+ },
+ {
+  "name": "Restrained Love",
+  "slug": "restrained_love",
+  "records": 156
+ },
+ {
+  "name": "Rough Sex",
+  "slug": "rough_sex",
+  "records": 156
+ },
+ {
+  "name": "Teasing Female Lead",
+  "slug": "teasing_female_lead",
+  "records": 156
+ },
+ {
+  "name": "Time Skip In First Chapter/Prologue",
+  "slug": "time_skip_in_first_chapter_prologue",
+  "records": 156
+ },
+ {
+  "name": "Working Adult",
+  "slug": "working_adult",
+  "records": 156
+ },
+ {
+  "name": "Bara",
+  "slug": "bara",
+  "records": 155
+ },
+ {
+  "name": "Based on an Eroge",
+  "slug": "based_on_an_eroge",
+  "records": 155
+ },
+ {
+  "name": "Enemies Become Allies",
+  "slug": "enemies_become_allies",
+  "records": 155
+ },
+ {
+  "name": "Fake Romance",
+  "slug": "fake_romance",
+  "records": 155
+ },
+ {
+  "name": "Long-Distance relationship",
+  "slug": "long_distance_relationship",
+  "records": 155
+ },
+ {
+  "name": "Melancholy",
+  "slug": "melancholy",
+  "records": 155
+ },
+ {
+  "name": "Queen",
+  "slug": "queen",
+  "records": 155
+ },
+ {
+  "name": "Wedding",
+  "slug": "wedding",
+  "records": 155
+ },
+ {
+  "name": "Abused Protagonist",
+  "slug": "abused_protagonist",
+  "records": 154
+ },
+ {
+  "name": "Pubic Hair",
+  "slug": "pubic_hair",
+  "records": 154
+ },
+ {
+  "name": "Regressor Protagonist",
+  "slug": "regressor_protagonist",
+  "records": 154
+ },
+ {
+  "name": "Amputee",
+  "slug": "amputee",
+  "records": 153
+ },
+ {
+  "name": "Determined Male Lead",
+  "slug": "determined_male_lead",
+  "records": 153
+ },
+ {
+  "name": "Magical Creature",
+  "slug": "magical_creature",
+  "records": 153
+ },
+ {
+  "name": "NEET",
+  "slug": "neet",
+  "records": 153
+ },
+ {
+  "name": "Polyamory",
+  "slug": "polyamory",
+  "records": 153
+ },
+ {
+  "name": "Priestess",
+  "slug": "priestess",
+  "records": 153
+ },
+ {
+  "name": "Quiet Male Lead",
+  "slug": "quiet_male_lead",
+  "records": 153
+ },
+ {
+  "name": "Succession",
+  "slug": "succession",
+  "records": 153
+ },
+ {
+  "name": "Abandonment",
+  "slug": "abandonment",
+  "records": 152
+ },
+ {
+  "name": "Dinosaurs",
+  "slug": "dinosaurs",
+  "records": 152
+ },
+ {
+  "name": "Fishing",
+  "slug": "fishing",
+  "records": 152
+ },
+ {
+  "name": "Grief",
+  "slug": "grief",
+  "records": 152
+ },
+ {
+  "name": "Guardian Relationship",
+  "slug": "guardian_relationship",
+  "records": 152
+ },
+ {
+  "name": "Honest Protagonist",
+  "slug": "honest_protagonist",
+  "records": 152
+ },
+ {
+  "name": "Legends",
+  "slug": "legends",
+  "records": 152
+ },
+ {
+  "name": "Unresolved Romance",
+  "slug": "unresolved_romance",
+  "records": 152
+ },
+ {
+  "name": "Weapons",
+  "slug": "weapons",
+  "records": 152
+ },
+ {
+  "name": "Anachronism",
+  "slug": "anachronism",
+  "records": 151
+ },
+ {
+  "name": "Animal Sidekick",
+  "slug": "animal_sidekick",
+  "records": 151
+ },
+ {
+  "name": "Blushing Female Lead",
+  "slug": "blushing_female_lead",
+  "records": 151
+ },
+ {
+  "name": "Demon Hunter",
+  "slug": "demon_hunter",
+  "records": 151
+ },
+ {
+  "name": "Female Lead with Sexual Experience",
+  "slug": "female_lead_with_sexual_experience",
+  "records": 151
+ },
+ {
+  "name": "Hard-Working Male Lead",
+  "slug": "hard_working_male_lead",
+  "records": 151
+ },
+ {
+  "name": "Sibling Rivalry",
+  "slug": "sibling_rivalry",
+  "records": 151
+ },
+ {
+  "name": "Bad Parent",
+  "slug": "bad_parent",
+  "records": 150
+ },
+ {
+  "name": "Mind control",
+  "slug": "mind_control",
+  "records": 150
+ },
+ {
+  "name": "Painful Love",
+  "slug": "painful_love",
+  "records": 150
+ },
+ {
+  "name": "Promiscuous Uke",
+  "slug": "promiscuous_uke",
+  "records": 150
+ },
+ {
+  "name": "Sudden Strength Gain",
+  "slug": "sudden_strength_gain",
+  "records": 150
+ },
+ {
+  "name": "Cheating Boyfriend",
+  "slug": "cheating_boyfriend",
+  "records": 149
+ },
+ {
+  "name": "Class President",
+  "slug": "class_president",
+  "records": 149
+ },
+ {
+  "name": "Homosexual Character",
+  "slug": "homosexual_character",
+  "records": 149
+ },
+ {
+  "name": "Mistaken Gender",
+  "slug": "mistaken_gender",
+  "records": 149
+ },
+ {
+  "name": "Reversible Couple",
+  "slug": "reversible_couple",
+  "records": 149
+ },
+ {
+  "name": "Sweets",
+  "slug": "sweets",
+  "records": 149
+ },
+ {
+  "name": "Teacher-Teacher Relationship",
+  "slug": "teacher_teacher_relationship",
+  "records": 149
+ },
+ {
+  "name": "Anti-Social Protagonist",
+  "slug": "anti_social_protagonist",
+  "records": 148
+ },
+ {
+  "name": "Bad Experiences",
+  "slug": "bad_experiences",
+  "records": 148
+ },
+ {
+  "name": "Cheating Husband",
+  "slug": "cheating_husband",
+  "records": 148
+ },
+ {
+  "name": "Dancer",
+  "slug": "dancer",
+  "records": 148
+ },
+ {
+  "name": "Famous Male Lead",
+  "slug": "famous_male_lead",
+  "records": 148
+ },
+ {
+  "name": "Fangirl",
+  "slug": "fangirl",
+  "records": 148
+ },
+ {
+  "name": "Grandmother",
+  "slug": "grandmother",
+  "records": 148
+ },
+ {
+  "name": "Serious Male Lead",
+  "slug": "serious_male_lead",
+  "records": 148
+ },
+ {
+  "name": "Urban Legends",
+  "slug": "urban_legends",
+  "records": 148
+ },
+ {
+  "name": "Abandoned Protagonist",
+  "slug": "abandoned_protagonist",
+  "records": 147
+ },
+ {
+  "name": "Ex-Delinquent",
+  "slug": "ex_delinquent",
+  "records": 147
+ },
+ {
+  "name": "Pretending Character",
+  "slug": "pretending_character",
+  "records": 147
+ },
+ {
+  "name": "Separation",
+  "slug": "separation",
+  "records": 147
+ },
+ {
+  "name": "Unconditional Love",
+  "slug": "unconditional_love",
+  "records": 147
+ },
+ {
+  "name": "Ballet",
+  "slug": "ballet",
+  "records": 146
+ },
+ {
+  "name": "Bookstore",
+  "slug": "bookstore",
+  "records": 146
+ },
+ {
+  "name": "Harassment",
+  "slug": "harassment",
+  "records": 146
+ },
+ {
+  "name": "Hot-Blooded Female Lead",
+  "slug": "hot_blooded_female_lead",
+  "records": 146
+ },
+ {
+  "name": "Judo",
+  "slug": "judo",
+  "records": 146
+ },
+ {
+  "name": "Korean",
+  "slug": "korean",
+  "records": 146
+ },
+ {
+  "name": "Korean ambience",
+  "slug": "korean_ambience",
+  "records": 146
+ },
+ {
+  "name": "Changing Fate",
+  "slug": "changing_fate",
+  "records": 145
+ },
+ {
+  "name": "Convenience Store",
+  "slug": "convenience_store",
+  "records": 145
+ },
+ {
+  "name": "Famous Character",
+  "slug": "famous_character",
+  "records": 145
+ },
+ {
+  "name": "Friend",
+  "slug": "friend",
+  "records": 145
+ },
+ {
+  "name": "Hidden Identity",
+  "slug": "hidden_identity",
+  "records": 145
+ },
+ {
+  "name": "Violent Male Lead",
+  "slug": "violent_male_lead",
+  "records": 145
+ },
+ {
+  "name": "Overpowered",
+  "slug": "overpowered",
+  "records": 144
+ },
+ {
+  "name": "Rebirth",
+  "slug": "rebirth",
+  "records": 144
+ },
+ {
+  "name": "Terminal Illness",
+  "slug": "terminal_illness",
+  "records": 144
+ },
+ {
+  "name": "Baby/ies",
+  "slug": "baby_ies",
+  "records": 143
+ },
+ {
+  "name": "Emotional Abuse",
+  "slug": "emotional_abuse",
+  "records": 143
+ },
+ {
+  "name": "Horny Male Lead",
+  "slug": "horny_male_lead",
+  "records": 143
+ },
+ {
+  "name": "Monster Hunter",
+  "slug": "monster_hunter",
+  "records": 143
+ },
+ {
+  "name": "Snowscape",
+  "slug": "snowscape",
+  "records": 143
+ },
+ {
+  "name": "Strong Seme",
+  "slug": "strong_seme",
+  "records": 143
+ },
+ {
+  "name": "Aviation",
+  "slug": "aviation",
+  "records": 142
+ },
+ {
+  "name": "Child Rape",
+  "slug": "child_rape",
+  "records": 142
+ },
+ {
+  "name": "Clumsy Female Lead",
+  "slug": "clumsy_female_lead",
+  "records": 142
+ },
+ {
+  "name": "Kill or Be Killed Situation",
+  "slug": "kill_or_be_killed_situation",
+  "records": 142
+ },
+ {
+  "name": "Long-Haired Female Character",
+  "slug": "long_haired_female_character",
+  "records": 142
+ },
+ {
+  "name": "Manipulative Lover",
+  "slug": "manipulative_lover",
+  "records": 142
+ },
+ {
+  "name": "Bisexual Uke",
+  "slug": "bisexual_uke",
+  "records": 141
+ },
+ {
+  "name": "Classical Music",
+  "slug": "classical_music",
+  "records": 141
+ },
+ {
+  "name": "Demon-Human Relationship",
+  "slug": "demon_human_relationship",
+  "records": 141
+ },
+ {
+  "name": "Flirting",
+  "slug": "flirting",
+  "records": 141
+ },
+ {
+  "name": "Meiji Era",
+  "slug": "meiji_era",
+  "records": 141
+ },
+ {
+  "name": "Realistic Homosexual Relationship",
+  "slug": "realistic_homosexual_relationship",
+  "records": 141
+ },
+ {
+  "name": "Sci-fi Elements",
+  "slug": "sci_fi_elements",
+  "records": 141
+ },
+ {
+  "name": "Searching for Answers",
+  "slug": "searching_for_answers",
+  "records": 141
+ },
+ {
+  "name": "Sibling Relationship",
+  "slug": "sibling_relationship",
+  "records": 141
+ },
+ {
+  "name": "Two Sets of Couples",
+  "slug": "two_sets_of_couples",
+  "records": 141
+ },
+ {
+  "name": "Breast Grabbing",
+  "slug": "breast_grabbing",
+  "records": 140
+ },
+ {
+  "name": "Designer",
+  "slug": "designer",
+  "records": 140
+ },
+ {
+  "name": "Forced into Marriage",
+  "slug": "forced_into_marriage",
+  "records": 140
+ },
+ {
+  "name": "Loli",
+  "slug": "loli",
+  "records": 140
+ },
+ {
+  "name": "Melancholy Atmosphere",
+  "slug": "melancholy_atmosphere",
+  "records": 140
+ },
+ {
+  "name": "Seke",
+  "slug": "seke",
+  "records": 140
+ },
+ {
+  "name": "Spoiled Character",
+  "slug": "spoiled_character",
+  "records": 140
+ },
+ {
+  "name": "Adapted to KDrama",
+  "slug": "adapted_to_kdrama",
+  "records": 139
+ },
+ {
+  "name": "Brown-Haired Male Lead",
+  "slug": "brown_haired_male_lead",
+  "records": 139
+ },
+ {
+  "name": "Chance Encounter",
+  "slug": "chance_encounter",
+  "records": 139
+ },
+ {
+  "name": "Elementary School Student",
+  "slug": "elementary_school_student",
+  "records": 139
+ },
+ {
+  "name": "Greed",
+  "slug": "greed",
+  "records": 139
+ },
+ {
+  "name": "Kendo",
+  "slug": "kendo",
+  "records": 139
+ },
+ {
+  "name": "Annoying Character",
+  "slug": "annoying_character",
+  "records": 138
+ },
+ {
+  "name": "Flower",
+  "slug": "flower",
+  "records": 138
+ },
+ {
+  "name": "Incubus",
+  "slug": "incubus",
+  "records": 138
+ },
+ {
+  "name": "Mixed Blood",
+  "slug": "mixed_blood",
+  "records": 138
+ },
+ {
+  "name": "Quest",
+  "slug": "quest",
+  "records": 138
+ },
+ {
+  "name": "Warm Ambience",
+  "slug": "warm_ambience",
+  "records": 138
+ },
+ {
+  "name": "Younger Lover",
+  "slug": "younger_lover",
+  "records": 138
+ },
+ {
+  "name": "Astronomy",
+  "slug": "astronomy",
+  "records": 137
+ },
+ {
+  "name": "Bartenders",
+  "slug": "bartenders",
+  "records": 137
+ },
+ {
+  "name": "Bookworms",
+  "slug": "bookworms",
+  "records": 137
+ },
+ {
+  "name": "Defloration",
+  "slug": "defloration",
+  "records": 137
+ },
+ {
+  "name": "Piano",
+  "slug": "piano",
+  "records": 137
+ },
+ {
+  "name": "Shrine",
+  "slug": "shrine",
+  "records": 137
+ },
+ {
+  "name": "Stalkerish Male Lead",
+  "slug": "stalkerish_male_lead",
+  "records": 137
+ },
+ {
+  "name": "Summoned Creatures",
+  "slug": "summoned_creatures",
+  "records": 137
+ },
+ {
+  "name": "Ambiguous Feelings",
+  "slug": "ambiguous_feelings",
+  "records": 136
+ },
+ {
+  "name": "Conflicted Feelings",
+  "slug": "conflicted_feelings",
+  "records": 136
+ },
+ {
+  "name": "Hiding True Self",
+  "slug": "hiding_true_self",
+  "records": 136
+ },
+ {
+  "name": "Prejudice",
+  "slug": "prejudice",
+  "records": 136
+ },
+ {
+  "name": "Sects",
+  "slug": "sects",
+  "records": 136
+ },
+ {
+  "name": "Skeleton",
+  "slug": "skeleton",
+  "records": 136
+ },
+ {
+  "name": "Transmigrated as a Side Character",
+  "slug": "transmigrated_as_a_side_character",
+  "records": 136
+ },
+ {
+  "name": "Crybaby Protagonist",
+  "slug": "crybaby_protagonist",
+  "records": 135
+ },
+ {
+  "name": "Death of Leading Characters",
+  "slug": "death_of_leading_characters",
+  "records": 135
+ },
+ {
+  "name": "Gender discrimination",
+  "slug": "gender_discrimination",
+  "records": 135
+ },
+ {
+  "name": "Guardians",
+  "slug": "guardians",
+  "records": 135
+ },
+ {
+  "name": "Psychological Trauma",
+  "slug": "psychological_trauma",
+  "records": 135
+ },
+ {
+  "name": "Reluctant Protagonist",
+  "slug": "reluctant_protagonist",
+  "records": 135
+ },
+ {
+  "name": "Resurrection",
+  "slug": "resurrection",
+  "records": 135
+ },
+ {
+  "name": "Spaceship",
+  "slug": "spaceship",
+  "records": 135
+ },
+ {
+  "name": "Transported to a Game World",
+  "slug": "transported_to_a_game_world",
+  "records": 135
+ },
+ {
+  "name": "Coma",
+  "slug": "coma",
+  "records": 134
+ },
+ {
+  "name": "Interracial Couple",
+  "slug": "interracial_couple",
+  "records": 134
+ },
+ {
+  "name": "Perverted Protagonist",
+  "slug": "perverted_protagonist",
+  "records": 134
+ },
+ {
+  "name": "Seme Turned Uke",
+  "slug": "seme_turned_uke",
+  "records": 134
+ },
+ {
+  "name": "Stepmother",
+  "slug": "stepmother",
+  "records": 134
+ },
+ {
+  "name": "Transmigrated as the Villainess",
+  "slug": "transmigrated_as_the_villainess",
+  "records": 134
+ },
+ {
+  "name": "Abusive Mother",
+  "slug": "abusive_mother",
+  "records": 133
+ },
+ {
+  "name": "Athletic Protagonist",
+  "slug": "athletic_protagonist",
+  "records": 133
+ },
+ {
+  "name": "Dead Sibling",
+  "slug": "dead_sibling",
+  "records": 133
+ },
+ {
+  "name": "Ex-Classmate",
+  "slug": "ex_classmate",
+  "records": 133
+ },
+ {
+  "name": "Imprisonment",
+  "slug": "imprisonment",
+  "records": 133
+ },
+ {
+  "name": "Lovers Reunited",
+  "slug": "lovers_reunited",
+  "records": 133
+ },
+ {
+  "name": "Prestigious School",
+  "slug": "prestigious_school",
+  "records": 133
+ },
+ {
+  "name": "Rapist",
+  "slug": "rapist",
+  "records": 133
+ },
+ {
+  "name": "Sexually Active Male Lead",
+  "slug": "sexually_active_male_lead",
+  "records": 133
+ },
+ {
+  "name": "Tennis",
+  "slug": "tennis",
+  "records": 133
+ },
+ {
+  "name": "Violent Female Lead",
+  "slug": "violent_female_lead",
+  "records": 133
+ },
+ {
+  "name": "Virgin Seme",
+  "slug": "virgin_seme",
+  "records": 133
+ },
+ {
+  "name": "Anxiety",
+  "slug": "anxiety",
+  "records": 132
+ },
+ {
+  "name": "Brainwashing",
+  "slug": "brainwashing",
+  "records": 132
+ },
+ {
+  "name": "Cunning Female Lead",
+  "slug": "cunning_female_lead",
+  "records": 132
+ },
+ {
+  "name": "Emperor/King Male Lead",
+  "slug": "emperor_king_male_lead",
+  "records": 132
+ },
+ {
+  "name": "Friends Become Enemies",
+  "slug": "friends_become_enemies",
+  "records": 132
+ },
+ {
+  "name": "Heterochromia",
+  "slug": "heterochromia",
+  "records": 132
+ },
+ {
+  "name": "Philosophical",
+  "slug": "philosophical",
+  "records": 132
+ },
+ {
+  "name": "Brothel",
+  "slug": "brothel",
+  "records": 131
+ },
+ {
+  "name": "Fan",
+  "slug": "fan",
+  "records": 131
+ },
+ {
+  "name": "Human Pets",
+  "slug": "human_pets",
+  "records": 131
+ },
+ {
+  "name": "Phobias",
+  "slug": "phobias",
+  "records": 131
+ },
+ {
+  "name": "Playboy Male Lead",
+  "slug": "playboy_male_lead",
+  "records": 131
+ },
+ {
+  "name": "Sex From Behind",
+  "slug": "sex_from_behind",
+  "records": 131
+ },
+ {
+  "name": "VTuber",
+  "slug": "vtuber",
+  "records": 131
+ },
+ {
+  "name": "Advanced Knowledge Meets Archaic World",
+  "slug": "advanced_knowledge_meets_archaic_world",
+  "records": 130
+ },
+ {
+  "name": "Dead Father",
+  "slug": "dead_father",
+  "records": 130
+ },
+ {
+  "name": "Nightmares",
+  "slug": "nightmares",
+  "records": 130
+ },
+ {
+  "name": "Dungeon Exploring",
+  "slug": "dungeon_exploring",
+  "records": 129
+ },
+ {
+  "name": "Foxes",
+  "slug": "foxes",
+  "records": 129
+ },
+ {
+  "name": "Married Female Lead",
+  "slug": "married_female_lead",
+  "records": 129
+ },
+ {
+  "name": "Misogyny",
+  "slug": "misogyny",
+  "records": 129
+ },
+ {
+  "name": "Modern City",
+  "slug": "modern_city",
+  "records": 129
+ },
+ {
+  "name": "Political Marriage",
+  "slug": "political_marriage",
+  "records": 129
+ },
+ {
+  "name": "Social Class Discrimination",
+  "slug": "social_class_discrimination",
+  "records": 129
+ },
+ {
+  "name": "Veterinarian",
+  "slug": "veterinarian",
+  "records": 129
+ },
+ {
+  "name": "Attempted Gang Rape",
+  "slug": "attempted_gang_rape",
+  "records": 128
+ },
+ {
+  "name": "Kingdom Management",
+  "slug": "kingdom_management",
+  "records": 128
+ },
+ {
+  "name": "Mother",
+  "slug": "mother",
+  "records": 128
+ },
+ {
+  "name": "System Administrator",
+  "slug": "system_administrator",
+  "records": 128
+ },
+ {
+  "name": "Yandere Female Lead",
+  "slug": "yandere_female_lead",
+  "records": 128
+ },
+ {
+  "name": "Deal with the Devil",
+  "slug": "deal_with_the_devil",
+  "records": 127
+ },
+ {
+  "name": "Double/Multiple Penetration",
+  "slug": "double_multiple_penetration",
+  "records": 127
+ },
+ {
+  "name": "Human Trafficking",
+  "slug": "human_trafficking",
+  "records": 127
+ },
+ {
+  "name": "Insanity",
+  "slug": "insanity",
+  "records": 127
+ },
+ {
+  "name": "Magical World",
+  "slug": "magical_world",
+  "records": 127
+ },
+ {
+  "name": "Regressed Male Lead",
+  "slug": "regressed_male_lead",
+  "records": 127
+ },
+ {
+  "name": "Reincarnated in an Otome Game",
+  "slug": "reincarnated_in_an_otome_game",
+  "records": 127
+ },
+ {
+  "name": "Reverse Rape",
+  "slug": "reverse_rape",
+  "records": 127
+ },
+ {
+  "name": "Role Reversal",
+  "slug": "role_reversal",
+  "records": 127
+ },
+ {
+  "name": "Sociopath",
+  "slug": "sociopath",
+  "records": 127
+ },
+ {
+  "name": "Trust Issues",
+  "slug": "trust_issues",
+  "records": 127
+ },
+ {
+  "name": "Comedic Misunderstanding",
+  "slug": "comedic_misunderstanding",
+  "records": 126
+ },
+ {
+  "name": "Corrupt Organizations",
+  "slug": "corrupt_organizations",
+  "records": 126
+ },
+ {
+  "name": "Familiar",
+  "slug": "familiar",
+  "records": 126
+ },
+ {
+  "name": "Invasion",
+  "slug": "invasion",
+  "records": 126
+ },
+ {
+  "name": "Masochism",
+  "slug": "masochism",
+  "records": 126
+ },
+ {
+  "name": "Mysterious Female Lead",
+  "slug": "mysterious_female_lead",
+  "records": 126
+ },
+ {
+  "name": "Primarily Animal Cast",
+  "slug": "primarily_animal_cast",
+  "records": 126
+ },
+ {
+  "name": "Protective Lover",
+  "slug": "protective_lover",
+  "records": 126
+ },
+ {
+  "name": "Psychosexual",
+  "slug": "psychosexual",
+  "records": 126
+ },
+ {
+  "name": "16th Century",
+  "slug": "16th_century",
+  "records": 125
+ },
+ {
+  "name": "Childhood Crush",
+  "slug": "childhood_crush",
+  "records": 125
+ },
+ {
+  "name": "Divorced Protagonist",
+  "slug": "divorced_protagonist",
+  "records": 125
+ },
+ {
+  "name": "Execution",
+  "slug": "execution",
+  "records": 125
+ },
+ {
+  "name": "Makeover",
+  "slug": "makeover",
+  "records": 125
+ },
+ {
+  "name": "Modern Knowledge",
+  "slug": "modern_knowledge",
+  "records": 125
+ },
+ {
+  "name": "Obsessive Male Lead",
+  "slug": "obsessive_male_lead",
+  "records": 125
+ },
+ {
+  "name": "Purple/Violet-Eyed Female Lead",
+  "slug": "purple_violet_eyed_female_lead",
+  "records": 125
+ },
+ {
+  "name": "Red-Haired Male Lead",
+  "slug": "red_haired_male_lead",
+  "records": 125
+ },
+ {
+  "name": "Self-Harm",
+  "slug": "self_harm",
+  "records": 125
+ },
+ {
+  "name": "Boarding House",
+  "slug": "boarding_house",
+  "records": 124
+ },
+ {
+  "name": "Expressionless Male Lead",
+  "slug": "expressionless_male_lead",
+  "records": 124
+ },
+ {
+  "name": "Fallen Nobility",
+  "slug": "fallen_nobility",
+  "records": 124
+ },
+ {
+  "name": "Golden/Yellow-Eyed Male Lead",
+  "slug": "golden_yellow_eyed_male_lead",
+  "records": 124
+ },
+ {
+  "name": "Incest as a Subplot",
+  "slug": "incest_as_a_subplot",
+  "records": 124
+ },
+ {
+  "name": "Inverted Nipples",
+  "slug": "inverted_nipples",
+  "records": 124
+ },
+ {
+  "name": "Misunderstood Male Lead",
+  "slug": "misunderstood_male_lead",
+  "records": 124
+ },
+ {
+  "name": "Musician",
+  "slug": "musician",
+  "records": 124
+ },
+ {
+  "name": "Orgasm Control",
+  "slug": "orgasm_control",
+  "records": 124
+ },
+ {
+  "name": "Outdoor Activities",
+  "slug": "outdoor_activities",
+  "records": 124
+ },
+ {
+  "name": "Perceptive Male Lead",
+  "slug": "perceptive_male_lead",
+  "records": 124
+ },
+ {
+  "name": "Secret Ability",
+  "slug": "secret_ability",
+  "records": 124
+ },
+ {
+  "name": "Soul",
+  "slug": "soul",
+  "records": 124
+ },
+ {
+  "name": "Summoning",
+  "slug": "summoning",
+  "records": 124
+ },
+ {
+  "name": "Wolf Boy",
+  "slug": "wolf_boy",
+  "records": 124
+ },
+ {
+  "name": "Animal Lover",
+  "slug": "animal_lover",
+  "records": 123
+ },
+ {
+  "name": "Attempted Extortion",
+  "slug": "attempted_extortion",
+  "records": 123
+ },
+ {
+  "name": "Defying Destiny/Fate",
+  "slug": "defying_destiny_fate",
+  "records": 123
+ },
+ {
+  "name": "Easily Embarrassed Female Lead",
+  "slug": "easily_embarrassed_female_lead",
+  "records": 123
+ },
+ {
+  "name": "Punishment",
+  "slug": "punishment",
+  "records": 123
+ },
+ {
+  "name": "Undead",
+  "slug": "undead",
+  "records": 123
+ },
+ {
+  "name": "Crybaby Seme",
+  "slug": "crybaby_seme",
+  "records": 122
+ },
+ {
+  "name": "Fate",
+  "slug": "fate",
+  "records": 122
+ },
+ {
+  "name": "Gay Bar",
+  "slug": "gay_bar",
+  "records": 122
+ },
+ {
+  "name": "Introvert",
+  "slug": "introvert",
+  "records": 122
+ },
+ {
+  "name": "Jealous Seme",
+  "slug": "jealous_seme",
+  "records": 122
+ },
+ {
+  "name": "Painful First Love",
+  "slug": "painful_first_love",
+  "records": 122
+ },
+ {
+  "name": "Unlucky Protagonist",
+  "slug": "unlucky_protagonist",
+  "records": 122
+ },
+ {
+  "name": "Androgynous Female Lead",
+  "slug": "androgynous_female_lead",
+  "records": 121
+ },
+ {
+  "name": "Crybaby Male Lead",
+  "slug": "crybaby_male_lead",
+  "records": 121
+ },
+ {
+  "name": "Empress",
+  "slug": "empress",
+  "records": 121
+ },
+ {
+  "name": "Lazy Protagonist",
+  "slug": "lazy_protagonist",
+  "records": 121
+ },
+ {
+  "name": "Loyal Servant",
+  "slug": "loyal_servant",
+  "records": 121
+ },
+ {
+  "name": "Memory Loss",
+  "slug": "memory_loss",
+  "records": 121
+ },
+ {
+  "name": "Noble Protagonist",
+  "slug": "noble_protagonist",
+  "records": 121
+ },
+ {
+  "name": "Overprotective Sibling",
+  "slug": "overprotective_sibling",
+  "records": 121
+ },
+ {
+  "name": "Reflections on Human Nature",
+  "slug": "reflections_on_human_nature",
+  "records": 121
+ },
+ {
+  "name": "Ancient Era",
+  "slug": "ancient_era",
+  "records": 120
+ },
+ {
+  "name": "Body Image",
+  "slug": "body_image",
+  "records": 120
+ },
+ {
+  "name": "Crafting",
+  "slug": "crafting",
+  "records": 120
+ },
+ {
+  "name": "Despair",
+  "slug": "despair",
+  "records": 120
+ },
+ {
+  "name": "Devoted Male Lead",
+  "slug": "devoted_male_lead",
+  "records": 120
+ },
+ {
+  "name": "Divine Holy Powers",
+  "slug": "divine_holy_powers",
+  "records": 120
+ },
+ {
+  "name": "Sorcerers",
+  "slug": "sorcerers",
+  "records": 120
+ },
+ {
+  "name": "Teenage Intercourse",
+  "slug": "teenage_intercourse",
+  "records": 120
+ },
+ {
+  "name": "Workaholic",
+  "slug": "workaholic",
+  "records": 120
+ },
+ {
+  "name": "Massacre",
+  "slug": "massacre",
+  "records": 119
+ },
+ {
+  "name": "Reincarnated as a Side Character",
+  "slug": "reincarnated_as_a_side_character",
+  "records": 119
+ },
+ {
+  "name": "Short-Haired Female Lead",
+  "slug": "short_haired_female_lead",
+  "records": 119
+ },
+ {
+  "name": "Special Squad",
+  "slug": "special_squad",
+  "records": 119
+ },
+ {
+  "name": "Traditions",
+  "slug": "traditions",
+  "records": 119
+ },
+ {
+  "name": "Ulterior Motives",
+  "slug": "ulterior_motives",
+  "records": 119
+ },
+ {
+  "name": "Voluptuous Female Lead",
+  "slug": "voluptuous_female_lead",
+  "records": 119
+ },
+ {
+  "name": "Blindfold",
+  "slug": "blindfold",
+  "records": 118
+ },
+ {
+  "name": "Denied Feelings",
+  "slug": "denied_feelings",
+  "records": 118
+ },
+ {
+  "name": "Hallucinations",
+  "slug": "hallucinations",
+  "records": 118
+ },
+ {
+  "name": "Harem-Seeking Male Lead",
+  "slug": "harem_seeking_male_lead",
+  "records": 118
+ },
+ {
+  "name": "Housekeeper",
+  "slug": "housekeeper",
+  "records": 118
+ },
+ {
+  "name": "Idols (Male)",
+  "slug": "idols_male",
+  "records": 118
+ },
+ {
+  "name": "Lost Family",
+  "slug": "lost_family",
+  "records": 118
+ },
+ {
+  "name": "Palace",
+  "slug": "palace",
+  "records": 118
+ },
+ {
+  "name": "Persistent Female Lead",
+  "slug": "persistent_female_lead",
+  "records": 118
+ },
+ {
+  "name": "Quiet Female Lead",
+  "slug": "quiet_female_lead",
+  "records": 118
+ },
+ {
+  "name": "Sexual Fantasy",
+  "slug": "sexual_fantasy",
+  "records": 118
+ },
+ {
+  "name": "White/Silver-Haired Protagonist",
+  "slug": "white_silver_haired_protagonist",
+  "records": 118
+ },
+ {
+  "name": "Bad Reputation",
+  "slug": "bad_reputation",
+  "records": 117
+ },
+ {
+  "name": "Blonde-Haired Protagonist",
+  "slug": "blonde_haired_protagonist",
+  "records": 117
+ },
+ {
+  "name": "Cheats",
+  "slug": "cheats",
+  "records": 117
+ },
+ {
+  "name": "Dense Protagonist",
+  "slug": "dense_protagonist",
+  "records": 117
+ },
+ {
+  "name": "Gay Character",
+  "slug": "gay_character",
+  "records": 117
+ },
+ {
+  "name": "Married Male Lead",
+  "slug": "married_male_lead",
+  "records": 117
+ },
+ {
+  "name": "Multiple Reincarnated Individuals",
+  "slug": "multiple_reincarnated_individuals",
+  "records": 117
+ },
+ {
+  "name": "Mysterious Death",
+  "slug": "mysterious_death",
+  "records": 117
+ },
+ {
+  "name": "Non-Consensual Drugging",
+  "slug": "non_consensual_drugging",
+  "records": 117
+ },
+ {
+  "name": "Post-War",
+  "slug": "post_war",
+  "records": 117
+ },
+ {
+  "name": "RPG Character Role",
+  "slug": "rpg_character_role",
+  "records": 117
+ },
+ {
+  "name": "Slow Life",
+  "slug": "slow_life",
+  "records": 117
+ },
+ {
+  "name": "Strict Parent",
+  "slug": "strict_parent",
+  "records": 117
+ },
+ {
+  "name": "Tragic Accident",
+  "slug": "tragic_accident",
+  "records": 117
+ },
+ {
+  "name": "Body Sharing",
+  "slug": "body_sharing",
+  "records": 116
+ },
+ {
+  "name": "Cruel Male Lead",
+  "slug": "cruel_male_lead",
+  "records": 116
+ },
+ {
+  "name": "Dragon Girl",
+  "slug": "dragon_girl",
+  "records": 116
+ },
+ {
+  "name": "Familial Love",
+  "slug": "familial_love",
+  "records": 116
+ },
+ {
+  "name": "Fish",
+  "slug": "fish",
+  "records": 116
+ },
+ {
+  "name": "Mental Breakdown",
+  "slug": "mental_breakdown",
+  "records": 116
+ },
+ {
+  "name": "Mentor",
+  "slug": "mentor",
+  "records": 116
+ },
+ {
+  "name": "POV",
+  "slug": "pov",
+  "records": 116
+ },
+ {
+  "name": "Reincarnated in the Past",
+  "slug": "reincarnated_in_the_past",
+  "records": 116
+ },
+ {
+  "name": "Tall Uke",
+  "slug": "tall_uke",
+  "records": 116
+ },
+ {
+  "name": "Villains",
+  "slug": "villains",
+  "records": 116
+ },
+ {
+  "name": "Alternative Future",
+  "slug": "alternative_future",
+  "records": 114
+ },
+ {
+  "name": "Bears",
+  "slug": "bears",
+  "records": 114
+ },
+ {
+  "name": "Christianity",
+  "slug": "christianity",
+  "records": 114
+ },
+ {
+  "name": "Horny Seme",
+  "slug": "horny_seme",
+  "records": 114
+ },
+ {
+  "name": "Magical Battles",
+  "slug": "magical_battles",
+  "records": 114
+ },
+ {
+  "name": "Male Lead with Sexual Experience",
+  "slug": "male_lead_with_sexual_experience",
+  "records": 114
+ },
+ {
+  "name": "Single Mother",
+  "slug": "single_mother",
+  "records": 114
+ },
+ {
+  "name": "Country Bumpkin Moves To City",
+  "slug": "country_bumpkin_moves_to_city",
+  "records": 113
+ },
+ {
+  "name": "Devoted Love Interest",
+  "slug": "devoted_love_interest",
+  "records": 113
+ },
+ {
+  "name": "Fashion Lolita",
+  "slug": "fashion_lolita",
+  "records": 113
+ },
+ {
+  "name": "Healer",
+  "slug": "healer",
+  "records": 113
+ },
+ {
+  "name": "Hell",
+  "slug": "hell",
+  "records": 113
+ },
+ {
+  "name": "Male Disguised as Female",
+  "slug": "male_disguised_as_female",
+  "records": 113
+ },
+ {
+  "name": "Misunderstood Female Lead",
+  "slug": "misunderstood_female_lead",
+  "records": 113
+ },
+ {
+  "name": "Surrealism",
+  "slug": "surrealism",
+  "records": 113
+ },
+ {
+  "name": "Toxic Relationship",
+  "slug": "toxic_relationship",
+  "records": 113
+ },
+ {
+  "name": "Tyrant",
+  "slug": "tyrant",
+  "records": 113
+ },
+ {
+  "name": "Bishoujo",
+  "slug": "bishoujo",
+  "records": 112
+ },
+ {
+  "name": "Black/Dark Magic",
+  "slug": "black_dark_magic",
+  "records": 112
+ },
+ {
+  "name": "Family Reunited",
+  "slug": "family_reunited",
+  "records": 112
+ },
+ {
+  "name": "Feminine Uke",
+  "slug": "feminine_uke",
+  "records": 112
+ },
+ {
+  "name": "Hidden Potential",
+  "slug": "hidden_potential",
+  "records": 112
+ },
+ {
+  "name": "Living Together",
+  "slug": "living_together",
+  "records": 112
+ },
+ {
+  "name": "Nudist",
+  "slug": "nudist",
+  "records": 112
+ },
+ {
+  "name": "Orphan Female Lead",
+  "slug": "orphan_female_lead",
+  "records": 112
+ },
+ {
+  "name": "Parental Favoritism",
+  "slug": "parental_favoritism",
+  "records": 112
+ },
+ {
+  "name": "Scheming Male Lead",
+  "slug": "scheming_male_lead",
+  "records": 112
+ },
+ {
+  "name": "Variations on a Theme",
+  "slug": "variations_on_a_theme",
+  "records": 112
+ },
+ {
+  "name": "Aggressive Male Lead",
+  "slug": "aggressive_male_lead",
+  "records": 111
+ },
+ {
+  "name": "Car Accident",
+  "slug": "car_accident",
+  "records": 111
+ },
+ {
+  "name": "Damsel in Distress",
+  "slug": "damsel_in_distress",
+  "records": 111
+ },
+ {
+  "name": "Destiny",
+  "slug": "destiny",
+  "records": 111
+ },
+ {
+  "name": "Hatred",
+  "slug": "hatred",
+  "records": 111
+ },
+ {
+  "name": "Housemates",
+  "slug": "housemates",
+  "records": 111
+ },
+ {
+  "name": "Letter",
+  "slug": "letter",
+  "records": 111
+ },
+ {
+  "name": "Mind Games",
+  "slug": "mind_games",
+  "records": 111
+ },
+ {
+  "name": "On the Run",
+  "slug": "on_the_run",
+  "records": 111
+ },
+ {
+  "name": "Protective Brother",
+  "slug": "protective_brother",
+  "records": 111
+ },
+ {
+  "name": "Traditional Clothes",
+  "slug": "traditional_clothes",
+  "records": 111
+ },
+ {
+  "name": "Tsukkomi Character",
+  "slug": "tsukkomi_character",
+  "records": 111
+ },
+ {
+  "name": "Undercover",
+  "slug": "undercover",
+  "records": 111
+ },
+ {
+  "name": "Apprentice",
+  "slug": "apprentice",
+  "records": 110
+ },
+ {
+  "name": "Blonde-Haired Uke",
+  "slug": "blonde_haired_uke",
+  "records": 110
+ },
+ {
+  "name": "Bukkake",
+  "slug": "bukkake",
+  "records": 110
+ },
+ {
+  "name": "Chuunibyou",
+  "slug": "chuunibyou",
+  "records": 110
+ },
+ {
+  "name": "Ero Guro",
+  "slug": "ero_guro",
+  "records": 110
+ },
+ {
+  "name": "Hairstylists",
+  "slug": "hairstylists",
+  "records": 110
+ },
+ {
+  "name": "Innocent Love",
+  "slug": "innocent_love",
+  "records": 110
+ },
+ {
+  "name": "Magic Crystals/Stones",
+  "slug": "magic_crystals_stones",
+  "records": 110
+ },
+ {
+  "name": "Past History",
+  "slug": "past_history",
+  "records": 110
+ },
+ {
+  "name": "Stoic Female Lead",
+  "slug": "stoic_female_lead",
+  "records": 110
+ },
+ {
+  "name": "Suppressed Feelings",
+  "slug": "suppressed_feelings",
+  "records": 110
+ },
+ {
+  "name": "Trapped in a Video Game",
+  "slug": "trapped_in_a_video_game",
+  "records": 110
+ },
+ {
+  "name": "Alice in Wonderland",
+  "slug": "alice_in_wonderland",
+  "records": 109
+ },
+ {
+  "name": "Ambitious Goals",
+  "slug": "ambitious_goals",
+  "records": 109
+ },
+ {
+  "name": "Commoner Female Lead",
+  "slug": "commoner_female_lead",
+  "records": 109
+ },
+ {
+  "name": "Deceptively Weak-Looking Protagonist",
+  "slug": "deceptively_weak_looking_protagonist",
+  "records": 109
+ },
+ {
+  "name": "Escape",
+  "slug": "escape",
+  "records": 109
+ },
+ {
+  "name": "Fire",
+  "slug": "fire",
+  "records": 109
+ },
+ {
+  "name": "Hospital Patient",
+  "slug": "hospital_patient",
+  "records": 109
+ },
+ {
+  "name": "Orphanage",
+  "slug": "orphanage",
+  "records": 109
+ },
+ {
+  "name": "Popular Character",
+  "slug": "popular_character",
+  "records": 109
+ },
+ {
+  "name": "Track and Field",
+  "slug": "track_and_field",
+  "records": 109
+ },
+ {
+  "name": "Weight Loss",
+  "slug": "weight_loss",
+  "records": 109
+ },
+ {
+  "name": "Annoying Female Lead",
+  "slug": "annoying_female_lead",
+  "records": 108
+ },
+ {
+  "name": "Bakery",
+  "slug": "bakery",
+  "records": 108
+ },
+ {
+  "name": "Beast Girl",
+  "slug": "beast_girl",
+  "records": 108
+ },
+ {
+  "name": "Calm Female Lead",
+  "slug": "calm_female_lead",
+  "records": 108
+ },
+ {
+  "name": "Competitive Atmosphere",
+  "slug": "competitive_atmosphere",
+  "records": 108
+ },
+ {
+  "name": "Flower Shop",
+  "slug": "flower_shop",
+  "records": 108
+ },
+ {
+  "name": "Overcoming the Past",
+  "slug": "overcoming_the_past",
+  "records": 108
+ },
+ {
+  "name": "Reconciled Couple",
+  "slug": "reconciled_couple",
+  "records": 108
+ },
+ {
+  "name": "Waiter",
+  "slug": "waiter",
+  "records": 108
+ },
+ {
+  "name": "Blonde-Haired Seme",
+  "slug": "blonde_haired_seme",
+  "records": 107
+ },
+ {
+  "name": "Clueless Protagonist",
+  "slug": "clueless_protagonist",
+  "records": 107
+ },
+ {
+  "name": "Elderly Protagonist",
+  "slug": "elderly_protagonist",
+  "records": 107
+ },
+ {
+  "name": "Emotionally Strong Male Lead",
+  "slug": "emotionally_strong_male_lead",
+  "records": 107
+ },
+ {
+  "name": "Game of Death",
+  "slug": "game_of_death",
+  "records": 107
+ },
+ {
+  "name": "High School Teacher",
+  "slug": "high_school_teacher",
+  "records": 107
+ },
+ {
+  "name": "Idols (Female)",
+  "slug": "idols_female",
+  "records": 107
+ },
+ {
+  "name": "Lonely Female Lead",
+  "slug": "lonely_female_lead",
+  "records": 107
+ },
+ {
+  "name": "Married Protagonist",
+  "slug": "married_protagonist",
+  "records": 107
+ },
+ {
+  "name": "Teasing Male Lead",
+  "slug": "teasing_male_lead",
+  "records": 107
+ },
+ {
+  "name": "Temple",
+  "slug": "temple",
+  "records": 107
+ },
+ {
+  "name": "Deal",
+  "slug": "deal",
+  "records": 106
+ },
+ {
+  "name": "Drug Abuse/Addiction",
+  "slug": "drug_abuse_addiction",
+  "records": 106
+ },
+ {
+  "name": "Glutton",
+  "slug": "glutton",
+  "records": 106
+ },
+ {
+  "name": "Handsome Male Character",
+  "slug": "handsome_male_character",
+  "records": 106
+ },
+ {
+  "name": "Handsome Protagonist",
+  "slug": "handsome_protagonist",
+  "records": 106
+ },
+ {
+  "name": "Hated Protagonist",
+  "slug": "hated_protagonist",
+  "records": 106
+ },
+ {
+  "name": "Human Sacrifice",
+  "slug": "human_sacrifice",
+  "records": 106
+ },
+ {
+  "name": "Merchants",
+  "slug": "merchants",
+  "records": 106
+ },
+ {
+  "name": "Musical Theater",
+  "slug": "musical_theater",
+  "records": 106
+ },
+ {
+  "name": "Policeman",
+  "slug": "policeman",
+  "records": 106
+ },
+ {
+  "name": "Sudden Death",
+  "slug": "sudden_death",
+  "records": 106
+ },
+ {
+  "name": "Abusive Lover",
+  "slug": "abusive_lover",
+  "records": 105
+ },
+ {
+  "name": "Animal Cruelty",
+  "slug": "animal_cruelty",
+  "records": 105
+ },
+ {
+  "name": "Armed Combat",
+  "slug": "armed_combat",
+  "records": 105
+ },
+ {
+  "name": "Art Students",
+  "slug": "art_students",
+  "records": 105
+ },
+ {
+  "name": "Beach",
+  "slug": "beach",
+  "records": 105
+ },
+ {
+  "name": "Beautiful Female Character",
+  "slug": "beautiful_female_character",
+  "records": 105
+ },
+ {
+  "name": "Blunt Female Lead",
+  "slug": "blunt_female_lead",
+  "records": 105
+ },
+ {
+  "name": "Crown Prince",
+  "slug": "crown_prince",
+  "records": 105
+ },
+ {
+  "name": "Festival",
+  "slug": "festival",
+  "records": 105
+ },
+ {
+  "name": "Livestreamers",
+  "slug": "livestreamers",
+  "records": 105
+ },
+ {
+  "name": "Loyalty",
+  "slug": "loyalty",
+  "records": 105
+ },
+ {
+  "name": "MILF",
+  "slug": "milf",
+  "records": 105
+ },
+ {
+  "name": "Oni",
+  "slug": "oni",
+  "records": 105
+ },
+ {
+  "name": "School Idols",
+  "slug": "school_idols",
+  "records": 105
+ },
+ {
+  "name": "Transmigrated into Another World",
+  "slug": "transmigrated_into_another_world",
+  "records": 105
+ },
+ {
+  "name": "Wanko Uke",
+  "slug": "wanko_uke",
+  "records": 105
+ },
+ {
+  "name": "Aggressive Seme",
+  "slug": "aggressive_seme",
+  "records": 104
+ },
+ {
+  "name": "Blindness",
+  "slug": "blindness",
+  "records": 104
+ },
+ {
+  "name": "Debt-Motivated Prostitution",
+  "slug": "debt_motivated_prostitution",
+  "records": 104
+ },
+ {
+  "name": "Farmer",
+  "slug": "farmer",
+  "records": 104
+ },
+ {
+  "name": "Horticulture",
+  "slug": "horticulture",
+  "records": 104
+ },
+ {
+  "name": "Partially Adapted to Anime",
+  "slug": "partially_adapted_to_anime",
+  "records": 104
+ },
+ {
+  "name": "Pop Culture References",
+  "slug": "pop_culture_references",
+  "records": 104
+ },
+ {
+  "name": "Princely Male Lead",
+  "slug": "princely_male_lead",
+  "records": 104
+ },
+ {
+  "name": "Religious References",
+  "slug": "religious_references",
+  "records": 104
+ },
+ {
+  "name": "Twisted Romance",
+  "slug": "twisted_romance",
+  "records": 104
+ },
+ {
+  "name": "Ex Couple Back Together",
+  "slug": "ex_couple_back_together",
+  "records": 103
+ },
+ {
+  "name": "Opposites Become Friends",
+  "slug": "opposites_become_friends",
+  "records": 103
+ },
+ {
+  "name": "Persistent Uke",
+  "slug": "persistent_uke",
+  "records": 103
+ },
+ {
+  "name": "Spells",
+  "slug": "spells",
+  "records": 103
+ },
+ {
+  "name": "Theater",
+  "slug": "theater",
+  "records": 103
+ },
+ {
+  "name": "Winter",
+  "slug": "winter",
+  "records": 103
+ },
+ {
+  "name": "Company President",
+  "slug": "company_president",
+  "records": 102
+ },
+ {
+  "name": "Condom",
+  "slug": "condom",
+  "records": 102
+ },
+ {
+  "name": "Living Alone",
+  "slug": "living_alone",
+  "records": 102
+ },
+ {
+  "name": "Multiple Sexual Partners",
+  "slug": "multiple_sexual_partners",
+  "records": 102
+ },
+ {
+  "name": "Rock Music",
+  "slug": "rock_music",
+  "records": 102
+ },
+ {
+  "name": "Social Anxiety",
+  "slug": "social_anxiety",
+  "records": 102
+ },
+ {
+  "name": "Steampunk",
+  "slug": "steampunk",
+  "records": 102
+ },
+ {
+  "name": "Student-Tutor Relationship",
+  "slug": "student_tutor_relationship",
+  "records": 102
+ },
+ {
+  "name": "Tribe",
+  "slug": "tribe",
+  "records": 102
+ },
+ {
+  "name": "Violent Uke",
+  "slug": "violent_uke",
+  "records": 102
+ },
+ {
+  "name": "Agender",
+  "slug": "agender",
+  "records": 101
+ },
+ {
+  "name": "Art School",
+  "slug": "art_school",
+  "records": 101
+ },
+ {
+  "name": "Fudanshi",
+  "slug": "fudanshi",
+  "records": 101
+ },
+ {
+  "name": "Rude Male Lead",
+  "slug": "rude_male_lead",
+  "records": 101
+ },
+ {
+  "name": "Sengoku Era",
+  "slug": "sengoku_era",
+  "records": 101
+ },
+ {
+  "name": "Sexual Tension",
+  "slug": "sexual_tension",
+  "records": 101
+ },
+ {
+  "name": "Siblings Not Related By Blood",
+  "slug": "siblings_not_related_by_blood",
+  "records": 101
+ },
+ {
+  "name": "Substitutes",
+  "slug": "substitutes",
+  "records": 101
+ },
+ {
+  "name": "Adapted to Novel",
+  "slug": "adapted_to_novel",
+  "records": 100
+ },
+ {
+  "name": "Bandit",
+  "slug": "bandit",
+  "records": 100
+ },
+ {
+  "name": "Cruel Character",
+  "slug": "cruel_character",
+  "records": 100
+ },
+ {
+  "name": "Dark/Tan Skin Male Lead",
+  "slug": "dark_tan_skin_male_lead",
+  "records": 100
+ },
+ {
+  "name": "Dense Uke",
+  "slug": "dense_uke",
+  "records": 100
+ },
+ {
+  "name": "Different Cultures",
+  "slug": "different_cultures",
+  "records": 100
+ },
+ {
+  "name": "Gender Identity",
+  "slug": "gender_identity",
+  "records": 100
+ },
+ {
+  "name": "Housekeeping",
+  "slug": "housekeeping",
+  "records": 100
+ },
+ {
+  "name": "Immature Protagonist",
+  "slug": "immature_protagonist",
+  "records": 100
+ },
+ {
+  "name": "Manga in a Manga",
+  "slug": "manga_in_a_manga",
+  "records": 100
+ },
+ {
+  "name": "Memory Erasure",
+  "slug": "memory_erasure",
+  "records": 100
+ },
+ {
+  "name": "Orphan Male Lead",
+  "slug": "orphan_male_lead",
+  "records": 100
+ },
+ {
+  "name": "Poor to Rich",
+  "slug": "poor_to_rich",
+  "records": 100
+ },
+ {
+  "name": "RPG",
+  "slug": "rpg",
+  "records": 100
+ },
+ {
+  "name": "Red-Eyed Female Lead",
+  "slug": "red_eyed_female_lead",
+  "records": 100
+ },
+ {
+  "name": "Sexual Violence",
+  "slug": "sexual_violence",
+  "records": 100
+ },
+ {
+  "name": "Symbolism",
+  "slug": "symbolism",
+  "records": 100
+ }
+]
