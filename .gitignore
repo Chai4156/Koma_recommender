@@ -1,0 +1,1 @@
+.env, gemini_key.txt, *.sqlite*, *.db, .venv/, __pycache__/, .pytest_cache/, node_modules/, dist/, .idea/
